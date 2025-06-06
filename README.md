@@ -1,4 +1,4 @@
-# Linguistic-AI-Africa-Language-
+# Linguistic-AI-Africa-Language
 Development of all african languages into existence 
 # Linguistic AI: African Language and Dialect Expansion
 

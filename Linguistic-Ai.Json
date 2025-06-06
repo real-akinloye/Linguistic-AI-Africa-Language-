@@ -1,0 +1,86 @@
+[
+  {
+    "dialect_language": "Ibadan",
+    "mother_language": "Yoruba",
+    "population_estimate": 3000000,
+    "regions": ["Oyo State"],
+    "language_family": "Niger-Congo/Yoruba"
+  },
+  {
+    "dialect_language": "Egba",
+    "mother_language": "Yoruba",
+    "population_estimate": 2000000,
+    "regions": ["Ogun State"],
+    "language_family": "Niger-Congo/Yoruba"
+  },
+  {
+    "dialect_language": "Awori",
+    "mother_language": "Yoruba",
+    "population_estimate": 1000000,
+    "regions": ["Lagos State", "Ogun State"],
+    "language_family": "Niger-Congo/Yoruba"
+  },
+  {
+    "dialect_language": "Hausa",
+    "mother_language": "Hausa",
+    "population_estimate": 45000000,
+    "regions": ["Northern Nigeria"],
+    "language_family": "Afro-Asiatic/Chadic"
+  },
+  {
+    "dialect_language": "Igbo",
+    "mother_language": "Igbo",
+    "population_estimate": 44000000,
+    "regions": ["South East Nigeria"],
+    "language_family": "Niger-Congo/Igboid"
+  },
+  {
+    "dialect_language": "Tiv",
+    "mother_language": "Tiv",
+    "population_estimate": 7000000,
+    "regions": ["Benue State"],
+    "language_family": "Niger-Congo/Benue-Congo"
+  },
+  {
+    "dialect_language": "Kanuri",
+    "mother_language": "Kanuri",
+    "population_estimate": 4000000,
+    "regions": ["Borno State"],
+    "language_family": "Nilo-Saharan/Saharan"
+  },
+  {
+    "dialect_language": "Ijaw",
+    "mother_language": "Ijaw",
+    "population_estimate": 4000000,
+    "regions": ["Delta State", "Bayelsa State", "Niger Delta"],
+    "language_family": "Niger-Congo/Ijoid"
+  },
+  {
+    "dialect_language": "Nupe",
+    "mother_language": "Nupe",
+    "population_estimate": 1500000,
+    "regions": ["Niger State", "Kwara State"],
+    "language_family": "Niger-Congo/Benue-Congo"
+  },
+  {
+    "dialect_language": "Gwari",
+    "mother_language": "Gwari",
+    "population_estimate": 1000000,
+    "regions": ["Niger State", "Kaduna State"],
+    "language_family": "Niger-Congo/Benue-Congo"
+  },
+  {
+    "dialect_language": "Yagba",
+    "mother_language": "Yoruba",
+    "population_estimate": 700000,
+    "regions": ["Kogi State"],
+    "language_family": "Niger-Congo/Yoruba"
+  },
+  {
+    "dialect_language": "Itsekiri",
+    "mother_language": "Yoruba",
+    "population_estimate": 900000,
+    "regions": ["Delta State"],
+    "language_family": "Niger-Congo/Yoruba"
+  }
+]

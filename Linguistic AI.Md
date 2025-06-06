@@ -84,4 +84,4 @@ python linguistic-ai/language_and_engineering_utils.py
 
 ---
 
-*We believe every dialect is a language, and every language is a universe.*
+*We believe every dialect is a language, and every language is a universe.*.

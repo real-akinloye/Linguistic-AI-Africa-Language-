@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Yoruba Dialect Translator</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2em; }
+        .container { max-width: 600px; margin: auto; }
+        label, select, input, textarea { display: block; width: 100%; margin-bottom: 1em; }
+        .result { background: #f0f0f0; padding: 1em; border-radius: 5px; margin-top: 1em; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Yoruba Dialect Translator</h1>
+    <form method="post" action="/translate">
+        <label for="source">Source Dialect:</label>
+        <select name="source" id="source" required>
+            <option value="Oyo" {% if source == 'Oyo' %}selected{% endif %}>Oyo</option>
+            <option value="Egba" {% if source == 'Egba' %}selected{% endif %}>Egba</option>
+            <option value="Ijebu" {% if source == 'Ijebu' %}selected{% endif %}>Ijebu</option>
+            <option value="Ekiti" {% if source == 'Ekiti' %}selected{% endif %}>Ekiti</option>
+            <option value="Ondo" {% if source == 'Ondo' %}selected{% endif %}>Ondo</option>
+            <option value="Egun" {% if source == 'Egun' %}selected{% endif %}>Egun</option>
+            <option value="Ibadan" {% if source == 'Ibadan' %}selected{% endif %}>Ibadan</option>
+            <option value="Ife" {% if source == 'Ife' %}selected{% endif %}>Ife</option>
+        </select>
+        <label for="target">Target Dialect:</label>
+        <select name="target" id="target" required>
+            <option value="Oyo" {% if target == 'Oyo' %}selected{% endif %}>Oyo</option>
+            <option value="Egba" {% if target == 'Egba' %}selected{% endif %}>Egba</option>
+            <option value="Ijebu" {% if target == 'Ijebu' %}selected{% endif %}>Ijebu</option>
+            <option value="Ekiti" {% if target == 'Ekiti' %}selected{% endif %}>Ekiti</option>
+            <option value="Ondo" {% if target == 'Ondo' %}selected{% endif %}>Ondo</option>
+            <option value="Egun" {% if target == 'Egun' %}selected{% endif %}>Egun</option>
+            <option value="Ibadan" {% if target == 'Ibadan' %}selected{% endif %}>Ibadan</option>
+            <option value="Ife" {% if target == 'Ife' %}selected{% endif %}>Ife</option>
+        </select>
+        <label for="text">Text to Translate:</label>
+        <textarea name="text" id="text" rows="4" required>{{ text or '' }}</textarea>
+        <button type="submit">Translate</button>
+    </form>
+    {% if result %}
+    <div class="result">
+        <strong>Translation Result:</strong>
+        <p>{{ result }}</p>
+    </div>
+    {% endif %}
+</div>
+</body>
+</html>

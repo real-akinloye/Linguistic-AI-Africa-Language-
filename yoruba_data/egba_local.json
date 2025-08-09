@@ -1,0 +1,5366 @@
+[
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Bawo",
+    "english_gloss": "How are you?",
+    "category": "Basic Greetings and Social Words",
+    "date_collected": "2025-08-09T13:31:06.132370",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Alafia",
+    "english_gloss": "Peace/wellness",
+    "category": "Basic Greetings and Social Words",
+    "date_collected": "2025-08-09T13:31:06.132393",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "E kaaro",
+    "english_gloss": "Good morning",
+    "category": "Basic Greetings and Social Words",
+    "date_collected": "2025-08-09T13:31:06.132399",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "E kaasan",
+    "english_gloss": "Good afternoon",
+    "category": "Basic Greetings and Social Words",
+    "date_collected": "2025-08-09T13:31:06.132404",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "E kaale",
+    "english_gloss": "Good evening",
+    "category": "Basic Greetings and Social Words",
+    "date_collected": "2025-08-09T13:31:06.132408",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "O dabo",
+    "english_gloss": "Goodbye",
+    "category": "Basic Greetings and Social Words",
+    "date_collected": "2025-08-09T13:31:06.132412",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ese",
+    "english_gloss": "Thank you",
+    "category": "Basic Greetings and Social Words",
+    "date_collected": "2025-08-09T13:31:06.132415",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Pele",
+    "english_gloss": "Sorry/sympathy",
+    "category": "Basic Greetings and Social Words",
+    "date_collected": "2025-08-09T13:31:06.132419",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Binu",
+    "english_gloss": "Don't be angry",
+    "category": "Basic Greetings and Social Words",
+    "date_collected": "2025-08-09T13:31:06.132426",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kabo",
+    "english_gloss": "Welcome",
+    "category": "Basic Greetings and Social Words",
+    "date_collected": "2025-08-09T13:31:06.132430",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Baba",
+    "english_gloss": "Father",
+    "category": "Family and Relationships",
+    "date_collected": "2025-08-09T13:31:06.132434",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "MamaIya",
+    "english_gloss": "Mother",
+    "category": "Family and Relationships",
+    "date_collected": "2025-08-09T13:31:06.132438",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Omo",
+    "english_gloss": "Child",
+    "category": "Family and Relationships",
+    "date_collected": "2025-08-09T13:31:06.132441",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Egbon",
+    "english_gloss": "Elder sibling",
+    "category": "Family and Relationships",
+    "date_collected": "2025-08-09T13:31:06.132445",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aburo",
+    "english_gloss": "Younger sibling",
+    "category": "Family and Relationships",
+    "date_collected": "2025-08-09T13:31:06.132448",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oko",
+    "english_gloss": "Husband",
+    "category": "Family and Relationships",
+    "date_collected": "2025-08-09T13:31:06.132451",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iyawo",
+    "english_gloss": "Wife",
+    "category": "Family and Relationships",
+    "date_collected": "2025-08-09T13:31:06.132455",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ebi",
+    "english_gloss": "Family",
+    "category": "Family and Relationships",
+    "date_collected": "2025-08-09T13:31:06.132458",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ore",
+    "english_gloss": "Friend",
+    "category": "Family and Relationships",
+    "date_collected": "2025-08-09T13:31:06.132461",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ololufe",
+    "english_gloss": "Lover/beloved",
+    "category": "Family and Relationships",
+    "date_collected": "2025-08-09T13:31:06.132465",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ori",
+    "english_gloss": "Head",
+    "category": "Body Parts",
+    "date_collected": "2025-08-09T13:31:06.132469",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oju",
+    "english_gloss": "Eye/face",
+    "category": "Body Parts",
+    "date_collected": "2025-08-09T13:31:06.132472",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Imu",
+    "english_gloss": "Nose",
+    "category": "Body Parts",
+    "date_collected": "2025-08-09T13:31:06.132476",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Enu",
+    "english_gloss": "Mouth",
+    "category": "Body Parts",
+    "date_collected": "2025-08-09T13:31:06.132479",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Eti",
+    "english_gloss": "Ear",
+    "category": "Body Parts",
+    "date_collected": "2025-08-09T13:31:06.132482",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Owo",
+    "english_gloss": "Hand/money",
+    "category": "Body Parts",
+    "date_collected": "2025-08-09T13:31:06.132486",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ese",
+    "english_gloss": "Foot/leg",
+    "category": "Body Parts",
+    "date_collected": "2025-08-09T13:31:06.132489",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ara",
+    "english_gloss": "Body",
+    "category": "Body Parts",
+    "date_collected": "2025-08-09T13:31:06.132495",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Okan",
+    "english_gloss": "Heart",
+    "category": "Body Parts",
+    "date_collected": "2025-08-09T13:31:06.132499",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Inu",
+    "english_gloss": "Stomach/inside",
+    "category": "Body Parts",
+    "date_collected": "2025-08-09T13:31:06.132502",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Funfun",
+    "english_gloss": "White",
+    "category": "Colors",
+    "date_collected": "2025-08-09T13:31:06.132505",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Dudu",
+    "english_gloss": "Black",
+    "category": "Colors",
+    "date_collected": "2025-08-09T13:31:06.132509",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Pupa",
+    "english_gloss": "Red",
+    "category": "Colors",
+    "date_collected": "2025-08-09T13:31:06.132512",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Bulu",
+    "english_gloss": "Blue",
+    "category": "Colors",
+    "date_collected": "2025-08-09T13:31:06.132515",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ewe",
+    "english_gloss": "Green",
+    "category": "Colors",
+    "date_collected": "2025-08-09T13:31:06.132518",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ofeefee",
+    "english_gloss": "Yellow",
+    "category": "Colors",
+    "date_collected": "2025-08-09T13:31:06.132522",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Alawọ",
+    "english_gloss": "Brown",
+    "category": "Colors",
+    "date_collected": "2025-08-09T13:31:06.132528",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Pink",
+    "english_gloss": "Pink",
+    "category": "Colors",
+    "date_collected": "2025-08-09T13:31:06.132531",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Grẹy",
+    "english_gloss": "Grey",
+    "category": "Colors",
+    "date_collected": "2025-08-09T13:31:06.132535",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Odo",
+    "english_gloss": "Purple",
+    "category": "Colors",
+    "date_collected": "2025-08-09T13:31:06.132538",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "EniOkan",
+    "english_gloss": "One",
+    "category": "Numbers",
+    "date_collected": "2025-08-09T13:31:06.132542",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "EjiMeji",
+    "english_gloss": "Two",
+    "category": "Numbers",
+    "date_collected": "2025-08-09T13:31:06.132546",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "EtaMeta",
+    "english_gloss": "Three",
+    "category": "Numbers",
+    "date_collected": "2025-08-09T13:31:06.132550",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "ErinMerin",
+    "english_gloss": "Four",
+    "category": "Numbers",
+    "date_collected": "2025-08-09T13:31:06.132553",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "ArunMarun",
+    "english_gloss": "Five",
+    "category": "Numbers",
+    "date_collected": "2025-08-09T13:31:06.132557",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "EfaMefa",
+    "english_gloss": "Six",
+    "category": "Numbers",
+    "date_collected": "2025-08-09T13:31:06.132561",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "EjeMeje",
+    "english_gloss": "Seven",
+    "category": "Numbers",
+    "date_collected": "2025-08-09T13:31:06.132564",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "EjoMejo",
+    "english_gloss": "Eight",
+    "category": "Numbers",
+    "date_collected": "2025-08-09T13:31:06.132570",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "EsanMesan",
+    "english_gloss": "Nine",
+    "category": "Numbers",
+    "date_collected": "2025-08-09T13:31:06.132573",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "EwaMewa",
+    "english_gloss": "Ten",
+    "category": "Numbers",
+    "date_collected": "2025-08-09T13:31:06.132576",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ounje",
+    "english_gloss": "Food",
+    "category": "Food and Drinks",
+    "date_collected": "2025-08-09T13:31:06.132580",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Omi",
+    "english_gloss": "Water",
+    "category": "Food and Drinks",
+    "date_collected": "2025-08-09T13:31:06.132583",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Isu",
+    "english_gloss": "Yam",
+    "category": "Food and Drinks",
+    "date_collected": "2025-08-09T13:31:06.132586",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iresi",
+    "english_gloss": "Rice",
+    "category": "Food and Drinks",
+    "date_collected": "2025-08-09T13:31:06.132590",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ewa",
+    "english_gloss": "Beans",
+    "category": "Food and Drinks",
+    "date_collected": "2025-08-09T13:31:06.132593",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Dodo",
+    "english_gloss": "Plantain",
+    "category": "Food and Drinks",
+    "date_collected": "2025-08-09T13:31:06.132596",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Epo",
+    "english_gloss": "Palm oil",
+    "category": "Food and Drinks",
+    "date_collected": "2025-08-09T13:31:06.132599",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Eja",
+    "english_gloss": "Fish",
+    "category": "Food and Drinks",
+    "date_collected": "2025-08-09T13:31:06.132602",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Eran",
+    "english_gloss": "Meat",
+    "category": "Food and Drinks",
+    "date_collected": "2025-08-09T13:31:06.132606",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Agbon",
+    "english_gloss": "Coconut",
+    "category": "Food and Drinks",
+    "date_collected": "2025-08-09T13:31:06.132609",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aja",
+    "english_gloss": "Dog",
+    "category": "Animals",
+    "date_collected": "2025-08-09T13:31:06.132614",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ologbo",
+    "english_gloss": "Cat",
+    "category": "Animals",
+    "date_collected": "2025-08-09T13:31:06.132617",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Esin",
+    "english_gloss": "Horse",
+    "category": "Animals",
+    "date_collected": "2025-08-09T13:31:06.132621",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Malu",
+    "english_gloss": "Cow",
+    "category": "Animals",
+    "date_collected": "2025-08-09T13:31:06.132624",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Agutan",
+    "english_gloss": "Sheep",
+    "category": "Animals",
+    "date_collected": "2025-08-09T13:31:06.132627",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ewure",
+    "english_gloss": "Goat",
+    "category": "Animals",
+    "date_collected": "2025-08-09T13:31:06.132630",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Adiye",
+    "english_gloss": "Chicken",
+    "category": "Animals",
+    "date_collected": "2025-08-09T13:31:06.132635",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Eku",
+    "english_gloss": "Rat/mouse",
+    "category": "Animals",
+    "date_collected": "2025-08-09T13:31:06.132639",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ekun",
+    "english_gloss": "Leopard",
+    "category": "Animals",
+    "date_collected": "2025-08-09T13:31:06.132642",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kiniun",
+    "english_gloss": "Lion",
+    "category": "Animals",
+    "date_collected": "2025-08-09T13:31:06.132645",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Orun",
+    "english_gloss": "Sun/heaven",
+    "category": "Nature and Weather",
+    "date_collected": "2025-08-09T13:31:06.132649",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Osupa",
+    "english_gloss": "Moon",
+    "category": "Nature and Weather",
+    "date_collected": "2025-08-09T13:31:06.132652",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Irawo",
+    "english_gloss": "Star",
+    "category": "Nature and Weather",
+    "date_collected": "2025-08-09T13:31:06.132656",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ojo",
+    "english_gloss": "Rain",
+    "category": "Nature and Weather",
+    "date_collected": "2025-08-09T13:31:06.132659",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Afefe",
+    "english_gloss": "Wind",
+    "category": "Nature and Weather",
+    "date_collected": "2025-08-09T13:31:06.132662",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ina",
+    "english_gloss": "Fire",
+    "category": "Nature and Weather",
+    "date_collected": "2025-08-09T13:31:06.132665",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Igi",
+    "english_gloss": "Tree",
+    "category": "Nature and Weather",
+    "date_collected": "2025-08-09T13:31:06.132668",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ododo",
+    "english_gloss": "Flower",
+    "category": "Nature and Weather",
+    "date_collected": "2025-08-09T13:31:06.132672",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Igbó",
+    "english_gloss": "Forest",
+    "category": "Nature and Weather",
+    "date_collected": "2025-08-09T13:31:06.132676",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Okun",
+    "english_gloss": "Sea/ocean",
+    "category": "Nature and Weather",
+    "date_collected": "2025-08-09T13:31:06.132679",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ojo",
+    "english_gloss": "Day",
+    "category": "Time and Days",
+    "date_collected": "2025-08-09T13:31:06.132683",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oru",
+    "english_gloss": "Night",
+    "category": "Time and Days",
+    "date_collected": "2025-08-09T13:31:06.132686",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Owuro",
+    "english_gloss": "Morning",
+    "category": "Time and Days",
+    "date_collected": "2025-08-09T13:31:06.132689",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Osan",
+    "english_gloss": "Afternoon",
+    "category": "Time and Days",
+    "date_collected": "2025-08-09T13:31:06.132692",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ale",
+    "english_gloss": "Evening",
+    "category": "Time and Days",
+    "date_collected": "2025-08-09T13:31:06.132696",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ose",
+    "english_gloss": "Week",
+    "category": "Time and Days",
+    "date_collected": "2025-08-09T13:31:06.132699",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Osu",
+    "english_gloss": "Month",
+    "category": "Time and Days",
+    "date_collected": "2025-08-09T13:31:06.132704",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Odun",
+    "english_gloss": "Year",
+    "category": "Time and Days",
+    "date_collected": "2025-08-09T13:31:06.132707",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aiye",
+    "english_gloss": "Lifetime/world",
+    "category": "Time and Days",
+    "date_collected": "2025-08-09T13:31:06.132710",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Akoko",
+    "english_gloss": "Time",
+    "category": "Time and Days",
+    "date_collected": "2025-08-09T13:31:06.132713",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Lo",
+    "english_gloss": "Go",
+    "category": "Actions/Verbs",
+    "date_collected": "2025-08-09T13:31:06.132717",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Wa",
+    "english_gloss": "Come",
+    "category": "Actions/Verbs",
+    "date_collected": "2025-08-09T13:31:06.132720",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Je",
+    "english_gloss": "Eat",
+    "category": "Actions/Verbs",
+    "date_collected": "2025-08-09T13:31:06.132723",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mu",
+    "english_gloss": "Drink",
+    "category": "Actions/Verbs",
+    "date_collected": "2025-08-09T13:31:06.132727",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sun",
+    "english_gloss": "Sleep",
+    "category": "Actions/Verbs",
+    "date_collected": "2025-08-09T13:31:06.132730",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ji",
+    "english_gloss": "Wake up",
+    "category": "Actions/Verbs",
+    "date_collected": "2025-08-09T13:31:06.132733",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Dide",
+    "english_gloss": "Stand up/get up",
+    "category": "Actions/Verbs",
+    "date_collected": "2025-08-09T13:31:06.132738",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Joko",
+    "english_gloss": "Sit down",
+    "category": "Actions/Verbs",
+    "date_collected": "2025-08-09T13:31:06.132741",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Rin",
+    "english_gloss": "Walk",
+    "category": "Actions/Verbs",
+    "date_collected": "2025-08-09T13:31:06.132744",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sare",
+    "english_gloss": "Run",
+    "category": "Actions/Verbs",
+    "date_collected": "2025-08-09T13:31:06.132748",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ayo",
+    "english_gloss": "Joy",
+    "category": "Emotions and States",
+    "date_collected": "2025-08-09T13:31:06.132751",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ibanuje",
+    "english_gloss": "Sadness",
+    "category": "Emotions and States",
+    "date_collected": "2025-08-09T13:31:06.132754",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ibinu",
+    "english_gloss": "Anger",
+    "category": "Emotions and States",
+    "date_collected": "2025-08-09T13:31:06.132758",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ife",
+    "english_gloss": "Love",
+    "category": "Emotions and States",
+    "date_collected": "2025-08-09T13:31:06.132761",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Korira",
+    "english_gloss": "Hatred",
+    "category": "Emotions and States",
+    "date_collected": "2025-08-09T13:31:06.132765",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iju",
+    "english_gloss": "Fear",
+    "category": "Emotions and States",
+    "date_collected": "2025-08-09T13:31:06.132769",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Itiju",
+    "english_gloss": "Shame",
+    "category": "Emotions and States",
+    "date_collected": "2025-08-09T13:31:06.132774",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Igberaga",
+    "english_gloss": "Pride",
+    "category": "Emotions and States",
+    "date_collected": "2025-08-09T13:31:06.132778",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Irele",
+    "english_gloss": "Humility",
+    "category": "Emotions and States",
+    "date_collected": "2025-08-09T13:31:06.132781",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Idunnu",
+    "english_gloss": "Happiness",
+    "category": "Emotions and States",
+    "date_collected": "2025-08-09T13:31:06.132784",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ile",
+    "english_gloss": "House/home",
+    "category": "House and Home",
+    "date_collected": "2025-08-09T13:31:06.132788",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Yara",
+    "english_gloss": "Room",
+    "category": "House and Home",
+    "date_collected": "2025-08-09T13:31:06.132791",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oju-ode",
+    "english_gloss": "Outside",
+    "category": "House and Home",
+    "date_collected": "2025-08-09T13:31:06.132794",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ilepa",
+    "english_gloss": "Wall",
+    "category": "House and Home",
+    "date_collected": "2025-08-09T13:31:06.132797",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ilekun",
+    "english_gloss": "Door",
+    "category": "House and Home",
+    "date_collected": "2025-08-09T13:31:06.132800",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ferese",
+    "english_gloss": "Window",
+    "category": "House and Home",
+    "date_collected": "2025-08-09T13:31:06.132804",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Orule",
+    "english_gloss": "Floor",
+    "category": "House and Home",
+    "date_collected": "2025-08-09T13:31:06.132807",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oke",
+    "english_gloss": "Roof",
+    "category": "House and Home",
+    "date_collected": "2025-08-09T13:31:06.132810",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ibudó",
+    "english_gloss": "Dwelling place",
+    "category": "House and Home",
+    "date_collected": "2025-08-09T13:31:06.132813",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Agbala",
+    "english_gloss": "Courtyard",
+    "category": "House and Home",
+    "date_collected": "2025-08-09T13:31:06.132817",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aso",
+    "english_gloss": "Cloth/clothing",
+    "category": "Clothing and Accessories",
+    "date_collected": "2025-08-09T13:31:06.132820",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Bante",
+    "english_gloss": "Shirt",
+    "category": "Clothing and Accessories",
+    "date_collected": "2025-08-09T13:31:06.132823",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sokoto",
+    "english_gloss": "Trousers",
+    "category": "Clothing and Accessories",
+    "date_collected": "2025-08-09T13:31:06.132827",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Buba",
+    "english_gloss": "Blouse",
+    "category": "Clothing and Accessories",
+    "date_collected": "2025-08-09T13:31:06.132839",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gele",
+    "english_gloss": "Head tie",
+    "category": "Clothing and Accessories",
+    "date_collected": "2025-08-09T13:31:06.132844",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Fila",
+    "english_gloss": "Cap",
+    "category": "Clothing and Accessories",
+    "date_collected": "2025-08-09T13:31:06.132850",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Bata",
+    "english_gloss": "Shoes",
+    "category": "Clothing and Accessories",
+    "date_collected": "2025-08-09T13:31:06.132853",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ileke",
+    "english_gloss": "Beads",
+    "category": "Clothing and Accessories",
+    "date_collected": "2025-08-09T13:31:06.132856",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹgba",
+    "english_gloss": "Bracelet",
+    "category": "Clothing and Accessories",
+    "date_collected": "2025-08-09T13:31:06.132860",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Yebeyebe",
+    "english_gloss": "Earrings",
+    "category": "Clothing and Accessories",
+    "date_collected": "2025-08-09T13:31:06.132864",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Eko",
+    "english_gloss": "Learning/education",
+    "category": "Education and Learning",
+    "date_collected": "2025-08-09T13:31:06.132867",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ile-iwe",
+    "english_gloss": "School",
+    "category": "Education and Learning",
+    "date_collected": "2025-08-09T13:31:06.132871",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oluko",
+    "english_gloss": "Teacher",
+    "category": "Education and Learning",
+    "date_collected": "2025-08-09T13:31:06.132874",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Akeko",
+    "english_gloss": "Student",
+    "category": "Education and Learning",
+    "date_collected": "2025-08-09T13:31:06.132877",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iwe",
+    "english_gloss": "Book",
+    "category": "Education and Learning",
+    "date_collected": "2025-08-09T13:31:06.132880",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kika",
+    "english_gloss": "Reading",
+    "category": "Education and Learning",
+    "date_collected": "2025-08-09T13:31:06.132883",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kikọ",
+    "english_gloss": "Writing",
+    "category": "Education and Learning",
+    "date_collected": "2025-08-09T13:31:06.132887",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Imo",
+    "english_gloss": "Knowledge",
+    "category": "Education and Learning",
+    "date_collected": "2025-08-09T13:31:06.132890",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oye",
+    "english_gloss": "Understanding",
+    "category": "Education and Learning",
+    "date_collected": "2025-08-09T13:31:06.132893",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ogbon",
+    "english_gloss": "Wisdom",
+    "category": "Education and Learning",
+    "date_collected": "2025-08-09T13:31:06.132896",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ise",
+    "english_gloss": "Work",
+    "category": "Work and Occupations",
+    "date_collected": "2025-08-09T13:31:06.132900",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Agbe",
+    "english_gloss": "Farmer",
+    "category": "Work and Occupations",
+    "date_collected": "2025-08-09T13:31:06.132903",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Onisona",
+    "english_gloss": "Trader",
+    "category": "Work and Occupations",
+    "date_collected": "2025-08-09T13:31:06.132906",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Dokita",
+    "english_gloss": "Doctor",
+    "category": "Work and Occupations",
+    "date_collected": "2025-08-09T13:31:06.132912",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oluko",
+    "english_gloss": "Teacher",
+    "category": "Work and Occupations",
+    "date_collected": "2025-08-09T13:31:06.132917",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Awakọ",
+    "english_gloss": "Driver",
+    "category": "Work and Occupations",
+    "date_collected": "2025-08-09T13:31:06.132921",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ologun",
+    "english_gloss": "Soldier",
+    "category": "Work and Occupations",
+    "date_collected": "2025-08-09T13:31:06.132924",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Alagbede",
+    "english_gloss": "Blacksmith",
+    "category": "Work and Occupations",
+    "date_collected": "2025-08-09T13:31:06.132927",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Asiko",
+    "english_gloss": "Tailor",
+    "category": "Work and Occupations",
+    "date_collected": "2025-08-09T13:31:06.132930",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Agbero",
+    "english_gloss": "Bus conductor",
+    "category": "Work and Occupations",
+    "date_collected": "2025-08-09T13:31:06.132934",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Olodumare",
+    "english_gloss": "Almighty God",
+    "category": "Religious and Spiritual Terms",
+    "date_collected": "2025-08-09T13:31:06.132938",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Orisa",
+    "english_gloss": "Deity",
+    "category": "Religious and Spiritual Terms",
+    "date_collected": "2025-08-09T13:31:06.132941",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Adura",
+    "english_gloss": "Prayer",
+    "category": "Religious and Spiritual Terms",
+    "date_collected": "2025-08-09T13:31:06.132944",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Isin",
+    "english_gloss": "Worship",
+    "category": "Religious and Spiritual Terms",
+    "date_collected": "2025-08-09T13:31:06.132947",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Emi-mimo",
+    "english_gloss": "Holy Spirit",
+    "category": "Religious and Spiritual Terms",
+    "date_collected": "2025-08-09T13:31:06.132950",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Orun",
+    "english_gloss": "Heaven",
+    "category": "Religious and Spiritual Terms",
+    "date_collected": "2025-08-09T13:31:06.132953",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Apaadi",
+    "english_gloss": "Hell",
+    "category": "Religious and Spiritual Terms",
+    "date_collected": "2025-08-09T13:31:06.132956",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iwadii",
+    "english_gloss": "Salvation",
+    "category": "Religious and Spiritual Terms",
+    "date_collected": "2025-08-09T13:31:06.132960",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ese",
+    "english_gloss": "Sin",
+    "category": "Religious and Spiritual Terms",
+    "date_collected": "2025-08-09T13:31:06.132963",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Dariji",
+    "english_gloss": "Forgiveness",
+    "category": "Religious and Spiritual Terms",
+    "date_collected": "2025-08-09T13:31:06.132966",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọbẹ",
+    "english_gloss": "Knife",
+    "category": "Tools and Objects",
+    "date_collected": "2025-08-09T13:31:06.132969",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ado",
+    "english_gloss": "Cutlass",
+    "category": "Tools and Objects",
+    "date_collected": "2025-08-09T13:31:06.132973",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Apa",
+    "english_gloss": "Hoe",
+    "category": "Tools and Objects",
+    "date_collected": "2025-08-09T13:31:06.132976",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Irin",
+    "english_gloss": "Iron",
+    "category": "Tools and Objects",
+    "date_collected": "2025-08-09T13:31:06.132979",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Igi",
+    "english_gloss": "Wood/stick",
+    "category": "Tools and Objects",
+    "date_collected": "2025-08-09T13:31:06.132986",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Okuta",
+    "english_gloss": "Stone",
+    "category": "Tools and Objects",
+    "date_collected": "2025-08-09T13:31:06.132990",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Eru",
+    "english_gloss": "Load/burden",
+    "category": "Tools and Objects",
+    "date_collected": "2025-08-09T13:31:06.132993",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ago",
+    "english_gloss": "Clock/time",
+    "category": "Tools and Objects",
+    "date_collected": "2025-08-09T13:31:06.132996",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kọmputa",
+    "english_gloss": "Computer",
+    "category": "Tools and Objects",
+    "date_collected": "2025-08-09T13:31:06.133000",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Foonu",
+    "english_gloss": "Phone",
+    "category": "Tools and Objects",
+    "date_collected": "2025-08-09T13:31:06.133003",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọkọ",
+    "english_gloss": "Vehicle",
+    "category": "Transportation",
+    "date_collected": "2025-08-09T13:31:06.133006",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Keke",
+    "english_gloss": "Bicycle",
+    "category": "Transportation",
+    "date_collected": "2025-08-09T13:31:06.133010",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọkọ-oju-irin",
+    "english_gloss": "Train",
+    "category": "Transportation",
+    "date_collected": "2025-08-09T13:31:06.133013",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọkọ-ofurufu",
+    "english_gloss": "Airplane",
+    "category": "Transportation",
+    "date_collected": "2025-08-09T13:31:06.133016",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọkọ-oju-omi",
+    "english_gloss": "Ship/boat",
+    "category": "Transportation",
+    "date_collected": "2025-08-09T13:31:06.133020",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mọto",
+    "english_gloss": "Motor/car",
+    "category": "Transportation",
+    "date_collected": "2025-08-09T13:31:06.133023",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Awakọ",
+    "english_gloss": "Driver",
+    "category": "Transportation",
+    "date_collected": "2025-08-09T13:31:06.133027",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ona",
+    "english_gloss": "Road/way",
+    "category": "Transportation",
+    "date_collected": "2025-08-09T13:31:06.133030",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ibudo",
+    "english_gloss": "Bus stop",
+    "category": "Transportation",
+    "date_collected": "2025-08-09T13:31:06.133033",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ajo",
+    "english_gloss": "Journey",
+    "category": "Transportation",
+    "date_collected": "2025-08-09T13:31:06.133036",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Owo",
+    "english_gloss": "Money",
+    "category": "Money and Commerce",
+    "date_collected": "2025-08-09T13:31:06.133039",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ra",
+    "english_gloss": "Buy",
+    "category": "Money and Commerce",
+    "date_collected": "2025-08-09T13:31:06.133042",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ta",
+    "english_gloss": "Sell",
+    "category": "Money and Commerce",
+    "date_collected": "2025-08-09T13:31:06.133046",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oja",
+    "english_gloss": "Market",
+    "category": "Money and Commerce",
+    "date_collected": "2025-08-09T13:31:06.133051",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Onisowo",
+    "english_gloss": "Trader",
+    "category": "Money and Commerce",
+    "date_collected": "2025-08-09T13:31:06.133062",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Idiye",
+    "english_gloss": "Price",
+    "category": "Money and Commerce",
+    "date_collected": "2025-08-09T13:31:06.133065",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Owó-idunnu",
+    "english_gloss": "Change (money)",
+    "category": "Money and Commerce",
+    "date_collected": "2025-08-09T13:31:06.133069",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gbese",
+    "english_gloss": "Debt",
+    "category": "Money and Commerce",
+    "date_collected": "2025-08-09T13:31:06.133072",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sanwo",
+    "english_gloss": "Payment",
+    "category": "Money and Commerce",
+    "date_collected": "2025-08-09T13:31:06.133077",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ere",
+    "english_gloss": "Profit",
+    "category": "Money and Commerce",
+    "date_collected": "2025-08-09T13:31:06.133080",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Orin",
+    "english_gloss": "Song",
+    "category": "Music and Entertainment",
+    "date_collected": "2025-08-09T13:31:06.133092",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ijo",
+    "english_gloss": "Dance",
+    "category": "Music and Entertainment",
+    "date_collected": "2025-08-09T13:31:06.133096",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Dundun",
+    "english_gloss": "Talking drum",
+    "category": "Music and Entertainment",
+    "date_collected": "2025-08-09T13:31:06.133100",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gangan",
+    "english_gloss": "Type of drum",
+    "category": "Music and Entertainment",
+    "date_collected": "2025-08-09T13:31:06.133103",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sekere",
+    "english_gloss": "Shaker",
+    "category": "Music and Entertainment",
+    "date_collected": "2025-08-09T13:31:06.133106",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Fere",
+    "english_gloss": "Flute",
+    "category": "Music and Entertainment",
+    "date_collected": "2025-08-09T13:31:06.133109",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ohun-elo-orin",
+    "english_gloss": "Musical instrument",
+    "category": "Music and Entertainment",
+    "date_collected": "2025-08-09T13:31:06.133113",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ariwo",
+    "english_gloss": "Noise/sound",
+    "category": "Music and Entertainment",
+    "date_collected": "2025-08-09T13:31:06.133116",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ere",
+    "english_gloss": "Play/game",
+    "category": "Music and Entertainment",
+    "date_collected": "2025-08-09T13:31:06.133119",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ayokẹlẹ",
+    "english_gloss": "Entertainment",
+    "category": "Music and Entertainment",
+    "date_collected": "2025-08-09T13:31:06.133123",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ilera",
+    "english_gloss": "Health",
+    "category": "Health and Medicine",
+    "date_collected": "2025-08-09T13:31:06.133127",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aisan",
+    "english_gloss": "Sickness",
+    "category": "Health and Medicine",
+    "date_collected": "2025-08-09T13:31:06.133130",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Egbo",
+    "english_gloss": "Medicine",
+    "category": "Health and Medicine",
+    "date_collected": "2025-08-09T13:31:06.133133",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ile-iwosan",
+    "english_gloss": "Hospital",
+    "category": "Health and Medicine",
+    "date_collected": "2025-08-09T13:31:06.133139",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Dokita",
+    "english_gloss": "Doctor",
+    "category": "Health and Medicine",
+    "date_collected": "2025-08-09T13:31:06.133142",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Nọọsi",
+    "english_gloss": "Nurse",
+    "category": "Health and Medicine",
+    "date_collected": "2025-08-09T13:31:06.133146",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Egboogi",
+    "english_gloss": "Herb",
+    "category": "Health and Medicine",
+    "date_collected": "2025-08-09T13:31:06.133149",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Abela",
+    "english_gloss": "Injection",
+    "category": "Health and Medicine",
+    "date_collected": "2025-08-09T13:31:06.133152",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iwọsan",
+    "english_gloss": "Treatment",
+    "category": "Health and Medicine",
+    "date_collected": "2025-08-09T13:31:06.133155",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ku",
+    "english_gloss": "Death",
+    "category": "Health and Medicine",
+    "date_collected": "2025-08-09T13:31:06.133158",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Tobi",
+    "english_gloss": "Big/large",
+    "category": "Adjectives and Descriptions",
+    "date_collected": "2025-08-09T13:31:06.133162",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kere",
+    "english_gloss": "Small",
+    "category": "Adjectives and Descriptions",
+    "date_collected": "2025-08-09T13:31:06.133165",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gun",
+    "english_gloss": "Long/tall",
+    "category": "Adjectives and Descriptions",
+    "date_collected": "2025-08-09T13:31:06.133168",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kukuru",
+    "english_gloss": "Short",
+    "category": "Adjectives and Descriptions",
+    "date_collected": "2025-08-09T13:31:06.133172",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sanra",
+    "english_gloss": "Fat",
+    "category": "Adjectives and Descriptions",
+    "date_collected": "2025-08-09T13:31:06.133175",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ru",
+    "english_gloss": "Thin",
+    "category": "Adjectives and Descriptions",
+    "date_collected": "2025-08-09T13:31:06.133178",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Rẹwa",
+    "english_gloss": "Beautiful",
+    "category": "Adjectives and Descriptions",
+    "date_collected": "2025-08-09T13:31:06.133181",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Buru",
+    "english_gloss": "Ugly",
+    "category": "Adjectives and Descriptions",
+    "date_collected": "2025-08-09T13:31:06.133184",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Dara",
+    "english_gloss": "Good",
+    "category": "Adjectives and Descriptions",
+    "date_collected": "2025-08-09T13:31:06.133187",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Buru",
+    "english_gloss": "Bad",
+    "category": "Adjectives and Descriptions",
+    "date_collected": "2025-08-09T13:31:06.133191",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gege",
+    "english_gloss": "Like/as",
+    "category": "More Common Words",
+    "date_collected": "2025-08-09T13:31:06.133194",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ati",
+    "english_gloss": "And",
+    "category": "More Common Words",
+    "date_collected": "2025-08-09T13:31:06.133197",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Tabi",
+    "english_gloss": "Or",
+    "category": "More Common Words",
+    "date_collected": "2025-08-09T13:31:06.133201",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sugbon",
+    "english_gloss": "But",
+    "category": "More Common Words",
+    "date_collected": "2025-08-09T13:31:06.133205",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Nitori",
+    "english_gloss": "Because",
+    "category": "More Common Words",
+    "date_collected": "2025-08-09T13:31:06.133208",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Bi",
+    "english_gloss": "If",
+    "category": "More Common Words",
+    "date_collected": "2025-08-09T13:31:06.133213",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Laipe",
+    "english_gloss": "Soon",
+    "category": "More Common Words",
+    "date_collected": "2025-08-09T13:31:06.133216",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Tẹlẹ",
+    "english_gloss": "Before",
+    "category": "More Common Words",
+    "date_collected": "2025-08-09T13:31:06.133220",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Leyin",
+    "english_gloss": "After",
+    "category": "More Common Words",
+    "date_collected": "2025-08-09T13:31:06.133223",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Lati",
+    "english_gloss": "From",
+    "category": "More Common Words",
+    "date_collected": "2025-08-09T13:31:06.133227",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Pupọ",
+    "english_gloss": "Many/much",
+    "category": "Quantities and Measurements",
+    "date_collected": "2025-08-09T13:31:06.133231",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Diẹ",
+    "english_gloss": "Few/little",
+    "category": "Quantities and Measurements",
+    "date_collected": "2025-08-09T13:31:06.133241",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gbogbo",
+    "english_gloss": "All",
+    "category": "Quantities and Measurements",
+    "date_collected": "2025-08-09T13:31:06.133250",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kan",
+    "english_gloss": "Some",
+    "category": "Quantities and Measurements",
+    "date_collected": "2025-08-09T13:31:06.133254",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mẹta",
+    "english_gloss": "Three (people)",
+    "category": "Quantities and Measurements",
+    "date_collected": "2025-08-09T13:31:06.133257",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Idaji",
+    "english_gloss": "Half",
+    "category": "Quantities and Measurements",
+    "date_collected": "2025-08-09T13:31:06.133260",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Odindi",
+    "english_gloss": "Whole",
+    "category": "Quantities and Measurements",
+    "date_collected": "2025-08-09T13:31:06.133263",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Apakan",
+    "english_gloss": "Part",
+    "category": "Quantities and Measurements",
+    "date_collected": "2025-08-09T13:31:06.133267",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iwọn",
+    "english_gloss": "Measurement",
+    "category": "Quantities and Measurements",
+    "date_collected": "2025-08-09T13:31:06.133270",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iye",
+    "english_gloss": "Amount",
+    "category": "Quantities and Measurements",
+    "date_collected": "2025-08-09T13:31:06.133273",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Apa",
+    "english_gloss": "Side/direction",
+    "category": "Directions and Locations",
+    "date_collected": "2025-08-09T13:31:06.133277",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ariwa",
+    "english_gloss": "North",
+    "category": "Directions and Locations",
+    "date_collected": "2025-08-09T13:31:06.133280",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Guusu",
+    "english_gloss": "South",
+    "category": "Directions and Locations",
+    "date_collected": "2025-08-09T13:31:06.133284",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ila-oorun",
+    "english_gloss": "East",
+    "category": "Directions and Locations",
+    "date_collected": "2025-08-09T13:31:06.133288",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iwọ-oorun",
+    "english_gloss": "West",
+    "category": "Directions and Locations",
+    "date_collected": "2025-08-09T13:31:06.133291",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oke",
+    "english_gloss": "Up/hill",
+    "category": "Directions and Locations",
+    "date_collected": "2025-08-09T13:31:06.133294",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Isalẹ",
+    "english_gloss": "Down",
+    "category": "Directions and Locations",
+    "date_collected": "2025-08-09T13:31:06.133297",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iwaju",
+    "english_gloss": "Front",
+    "category": "Directions and Locations",
+    "date_collected": "2025-08-09T13:31:06.133301",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹhin",
+    "english_gloss": "Back/behind",
+    "category": "Directions and Locations",
+    "date_collected": "2025-08-09T13:31:06.133304",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Arin",
+    "english_gloss": "Middle/center",
+    "category": "Directions and Locations",
+    "date_collected": "2025-08-09T13:31:06.133307",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kọ",
+    "english_gloss": "Build/learn",
+    "category": "Actions and Activities",
+    "date_collected": "2025-08-09T13:31:06.133311",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Tu",
+    "english_gloss": "Release/break",
+    "category": "Actions and Activities",
+    "date_collected": "2025-08-09T13:31:06.133314",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Fa",
+    "english_gloss": "Pull/draw",
+    "category": "Actions and Activities",
+    "date_collected": "2025-08-09T13:31:06.133317",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ti",
+    "english_gloss": "Push",
+    "category": "Actions and Activities",
+    "date_collected": "2025-08-09T13:31:06.133320",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gbe",
+    "english_gloss": "Carry/lift",
+    "category": "Actions and Activities",
+    "date_collected": "2025-08-09T13:31:06.133324",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Fi",
+    "english_gloss": "Use/place",
+    "category": "Actions and Activities",
+    "date_collected": "2025-08-09T13:31:06.133327",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mu",
+    "english_gloss": "Hold/drink",
+    "category": "Actions and Activities",
+    "date_collected": "2025-08-09T13:31:06.133330",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sọ",
+    "english_gloss": "Say/speak",
+    "category": "Actions and Activities",
+    "date_collected": "2025-08-09T13:31:06.133333",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gbọ",
+    "english_gloss": "Hear/listen",
+    "category": "Actions and Activities",
+    "date_collected": "2025-08-09T13:31:06.133336",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Wo",
+    "english_gloss": "Look/wear",
+    "category": "Actions and Activities",
+    "date_collected": "2025-08-09T13:31:06.133340",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Se",
+    "english_gloss": "Cook",
+    "category": "Cooking and Kitchen",
+    "date_collected": "2025-08-09T13:31:06.133343",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Dun",
+    "english_gloss": "Sweet/tasty",
+    "category": "Cooking and Kitchen",
+    "date_collected": "2025-08-09T13:31:06.133348",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Koro",
+    "english_gloss": "Bitter",
+    "category": "Cooking and Kitchen",
+    "date_collected": "2025-08-09T13:31:06.133351",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iyọ",
+    "english_gloss": "Salt",
+    "category": "Cooking and Kitchen",
+    "date_collected": "2025-08-09T13:31:06.133354",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Isu",
+    "english_gloss": "Pepper",
+    "category": "Cooking and Kitchen",
+    "date_collected": "2025-08-09T13:31:06.133358",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Yanrin-yanrin",
+    "english_gloss": "Spicy",
+    "category": "Cooking and Kitchen",
+    "date_collected": "2025-08-09T13:31:06.133368",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Tutu",
+    "english_gloss": "Cold",
+    "category": "Cooking and Kitchen",
+    "date_collected": "2025-08-09T13:31:06.133374",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gbona",
+    "english_gloss": "Hot",
+    "category": "Cooking and Kitchen",
+    "date_collected": "2025-08-09T13:31:06.133390",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ogo",
+    "english_gloss": "Pot",
+    "category": "Cooking and Kitchen",
+    "date_collected": "2025-08-09T13:31:06.133395",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Obe",
+    "english_gloss": "Soup/stew",
+    "category": "Cooking and Kitchen",
+    "date_collected": "2025-08-09T13:31:06.133399",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ajo",
+    "english_gloss": "Meeting",
+    "category": "Social Activities",
+    "date_collected": "2025-08-09T13:31:06.133402",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Igbeyawo",
+    "english_gloss": "Wedding",
+    "category": "Social Activities",
+    "date_collected": "2025-08-09T13:31:06.133406",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Isinku",
+    "english_gloss": "Funeral",
+    "category": "Social Activities",
+    "date_collected": "2025-08-09T13:31:06.133409",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ayẹyẹ",
+    "english_gloss": "Celebration",
+    "category": "Social Activities",
+    "date_collected": "2025-08-09T13:31:06.133412",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iranṣẹ",
+    "english_gloss": "Helper/servant",
+    "category": "Social Activities",
+    "date_collected": "2025-08-09T13:31:06.133418",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Alejo",
+    "english_gloss": "Visitor/guest",
+    "category": "Social Activities",
+    "date_collected": "2025-08-09T13:31:06.133421",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ogun",
+    "english_gloss": "War",
+    "category": "Social Activities",
+    "date_collected": "2025-08-09T13:31:06.133424",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Alafia",
+    "english_gloss": "Peace",
+    "category": "Social Activities",
+    "date_collected": "2025-08-09T13:31:06.133427",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ija",
+    "english_gloss": "Fight",
+    "category": "Social Activities",
+    "date_collected": "2025-08-09T13:31:06.133430",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Isokan",
+    "english_gloss": "Unity",
+    "category": "Social Activities",
+    "date_collected": "2025-08-09T13:31:06.133433",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Isẹ-ọwọ",
+    "english_gloss": "Handicraft",
+    "category": "Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.133437",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Agbẹ",
+    "english_gloss": "Farmer",
+    "category": "Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.133443",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oniṣọna",
+    "english_gloss": "Artist",
+    "category": "Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.133446",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Akọwe",
+    "english_gloss": "Writer/scribe",
+    "category": "Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.133454",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Onimọ",
+    "english_gloss": "Expert",
+    "category": "Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.133467",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Asayẹ",
+    "english_gloss": "Judge",
+    "category": "Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.133479",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aṣofin",
+    "english_gloss": "Lawyer",
+    "category": "Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.133491",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oniwadi",
+    "english_gloss": "Researcher",
+    "category": "Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.133497",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oluṣeto",
+    "english_gloss": "Manager",
+    "category": "Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.133500",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Adaṣe",
+    "english_gloss": "Leader",
+    "category": "Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.133503",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Otitọ",
+    "english_gloss": "Truth",
+    "category": "Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.133507",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Eke",
+    "english_gloss": "Lie/falsehood",
+    "category": "Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.133510",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iye",
+    "english_gloss": "Honor",
+    "category": "Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.133513",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Itiju",
+    "english_gloss": "Shame/disgrace",
+    "category": "Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.133519",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Asiri",
+    "english_gloss": "Secret",
+    "category": "Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.133522",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Imo",
+    "english_gloss": "Knowledge",
+    "category": "Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.133525",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Igbekele",
+    "english_gloss": "Trust",
+    "category": "Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.133528",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ifọkanbale",
+    "english_gloss": "Confidence",
+    "category": "Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.133531",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ani",
+    "english_gloss": "Promise",
+    "category": "Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.133534",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Eri",
+    "english_gloss": "Evidence",
+    "category": "Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.133537",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oru",
+    "english_gloss": "Dew",
+    "category": "Weather and Climate",
+    "date_collected": "2025-08-09T13:31:06.133543",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Yinyin",
+    "english_gloss": "Cold",
+    "category": "Weather and Climate",
+    "date_collected": "2025-08-09T13:31:06.133546",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ooru",
+    "english_gloss": "Heat",
+    "category": "Weather and Climate",
+    "date_collected": "2025-08-09T13:31:06.133549",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iji",
+    "english_gloss": "Storm",
+    "category": "Weather and Climate",
+    "date_collected": "2025-08-09T13:31:06.133574",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ara",
+    "english_gloss": "Thunder",
+    "category": "Weather and Climate",
+    "date_collected": "2025-08-09T13:31:06.133579",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mọnamọna",
+    "english_gloss": "Lightning",
+    "category": "Weather and Climate",
+    "date_collected": "2025-08-09T13:31:06.133583",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kurukuru",
+    "english_gloss": "Fog",
+    "category": "Weather and Climate",
+    "date_collected": "2025-08-09T13:31:06.133586",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ewu",
+    "english_gloss": "Drought",
+    "category": "Weather and Climate",
+    "date_collected": "2025-08-09T13:31:06.133589",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Omi-ojo",
+    "english_gloss": "Flood",
+    "category": "Weather and Climate",
+    "date_collected": "2025-08-09T13:31:06.133592",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Igba-otutu",
+    "english_gloss": "Dry season",
+    "category": "Weather and Climate",
+    "date_collected": "2025-08-09T13:31:06.133596",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oko",
+    "english_gloss": "Farm",
+    "category": "Agriculture and Farming",
+    "date_collected": "2025-08-09T13:31:06.133601",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Irugbin",
+    "english_gloss": "Planting",
+    "category": "Agriculture and Farming",
+    "date_collected": "2025-08-09T13:31:06.133606",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ikore",
+    "english_gloss": "Harvesting",
+    "category": "Agriculture and Farming",
+    "date_collected": "2025-08-09T13:31:06.133610",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Epò",
+    "english_gloss": "Fertilizer",
+    "category": "Agriculture and Farming",
+    "date_collected": "2025-08-09T13:31:06.133614",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Korikori",
+    "english_gloss": "Weed",
+    "category": "Agriculture and Farming",
+    "date_collected": "2025-08-09T13:31:06.133617",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹfọ",
+    "english_gloss": "Vegetables",
+    "category": "Agriculture and Farming",
+    "date_collected": "2025-08-09T13:31:06.133620",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Eso",
+    "english_gloss": "Fruit",
+    "category": "Agriculture and Farming",
+    "date_collected": "2025-08-09T13:31:06.133624",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọka",
+    "english_gloss": "Corn/maize",
+    "category": "Agriculture and Farming",
+    "date_collected": "2025-08-09T13:31:06.133627",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ewebe",
+    "english_gloss": "Leaves/herbs",
+    "category": "Agriculture and Farming",
+    "date_collected": "2025-08-09T13:31:06.133630",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Igi-eso",
+    "english_gloss": "Fruit tree",
+    "category": "Agriculture and Farming",
+    "date_collected": "2025-08-09T13:31:06.133633",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Bọọlu",
+    "english_gloss": "Ball",
+    "category": "Sports and Games",
+    "date_collected": "2025-08-09T13:31:06.133638",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ere-idaraya",
+    "english_gloss": "Sport",
+    "category": "Sports and Games",
+    "date_collected": "2025-08-09T13:31:06.133641",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sare",
+    "english_gloss": "Race/running",
+    "category": "Sports and Games",
+    "date_collected": "2025-08-09T13:31:06.133644",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Foriji",
+    "english_gloss": "Wrestling",
+    "category": "Sports and Games",
+    "date_collected": "2025-08-09T13:31:06.133648",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gbigbe-ara",
+    "english_gloss": "Exercise",
+    "category": "Sports and Games",
+    "date_collected": "2025-08-09T13:31:06.133651",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ere-ijo",
+    "english_gloss": "Dancing game",
+    "category": "Sports and Games",
+    "date_collected": "2025-08-09T13:31:06.133654",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ayo",
+    "english_gloss": "Traditional game",
+    "category": "Sports and Games",
+    "date_collected": "2025-08-09T13:31:06.133657",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Jagun-jagun",
+    "english_gloss": "War game",
+    "category": "Sports and Games",
+    "date_collected": "2025-08-09T13:31:06.133660",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ere-ọmọde",
+    "english_gloss": "Children's game",
+    "category": "Sports and Games",
+    "date_collected": "2025-08-09T13:31:06.133663",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Idije",
+    "english_gloss": "Competition",
+    "category": "Sports and Games",
+    "date_collected": "2025-08-09T13:31:06.133666",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Imọ-ẹrọ",
+    "english_gloss": "Technology",
+    "category": "Technology and Modern Life",
+    "date_collected": "2025-08-09T13:31:06.133670",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kọmputa",
+    "english_gloss": "Computer",
+    "category": "Technology and Modern Life",
+    "date_collected": "2025-08-09T13:31:06.133673",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Foonu",
+    "english_gloss": "Phone",
+    "category": "Technology and Modern Life",
+    "date_collected": "2025-08-09T13:31:06.133677",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Redio",
+    "english_gloss": "Radio",
+    "category": "Technology and Modern Life",
+    "date_collected": "2025-08-09T13:31:06.133680",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Tẹlifišọn",
+    "english_gloss": "Television",
+    "category": "Technology and Modern Life",
+    "date_collected": "2025-08-09T13:31:06.133683",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kamera",
+    "english_gloss": "Camera",
+    "category": "Technology and Modern Life",
+    "date_collected": "2025-08-09T13:31:06.133686",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ina-mọnamọna",
+    "english_gloss": "Electricity",
+    "category": "Technology and Modern Life",
+    "date_collected": "2025-08-09T13:31:06.133690",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Nẹtiwọki",
+    "english_gloss": "Network",
+    "category": "Technology and Modern Life",
+    "date_collected": "2025-08-09T13:31:06.133693",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Intanẹti",
+    "english_gloss": "Internet",
+    "category": "Technology and Modern Life",
+    "date_collected": "2025-08-09T13:31:06.133697",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹrọ-itupalẹ",
+    "english_gloss": "Calculator",
+    "category": "Technology and Modern Life",
+    "date_collected": "2025-08-09T13:31:06.133702",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Inudun",
+    "english_gloss": "Happiness",
+    "category": "Emotions and Psychology",
+    "date_collected": "2025-08-09T13:31:06.133705",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ibanuje",
+    "english_gloss": "Sadness",
+    "category": "Emotions and Psychology",
+    "date_collected": "2025-08-09T13:31:06.133710",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iberu",
+    "english_gloss": "Fear",
+    "category": "Emotions and Psychology",
+    "date_collected": "2025-08-09T13:31:06.133714",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Igberaga",
+    "english_gloss": "Pride",
+    "category": "Emotions and Psychology",
+    "date_collected": "2025-08-09T13:31:06.133717",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Irẹlẹ",
+    "english_gloss": "Humility",
+    "category": "Emotions and Psychology",
+    "date_collected": "2025-08-09T13:31:06.133722",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Itara",
+    "english_gloss": "Excitement",
+    "category": "Emotions and Psychology",
+    "date_collected": "2025-08-09T13:31:06.133733",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ikorira",
+    "english_gloss": "Hatred",
+    "category": "Emotions and Psychology",
+    "date_collected": "2025-08-09T13:31:06.133744",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ifẹ",
+    "english_gloss": "Love",
+    "category": "Emotions and Psychology",
+    "date_collected": "2025-08-09T13:31:06.133749",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ibanujẹ",
+    "english_gloss": "Sorrow",
+    "category": "Emotions and Psychology",
+    "date_collected": "2025-08-09T13:31:06.133752",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ayọ",
+    "english_gloss": "Joy",
+    "category": "Emotions and Psychology",
+    "date_collected": "2025-08-09T13:31:06.133755",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Agbada",
+    "english_gloss": "Traditional robe",
+    "category": "Cultural and Traditional Items",
+    "date_collected": "2025-08-09T13:31:06.133761",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aso-oke",
+    "english_gloss": "Traditional cloth",
+    "category": "Cultural and Traditional Items",
+    "date_collected": "2025-08-09T13:31:06.133764",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Buba",
+    "english_gloss": "Traditional blouse",
+    "category": "Cultural and Traditional Items",
+    "date_collected": "2025-08-09T13:31:06.133767",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gele",
+    "english_gloss": "Head wrap",
+    "category": "Cultural and Traditional Items",
+    "date_collected": "2025-08-09T13:31:06.133771",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Fila",
+    "english_gloss": "Traditional cap",
+    "category": "Cultural and Traditional Items",
+    "date_collected": "2025-08-09T13:31:06.133774",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Opa",
+    "english_gloss": "Staff/walking stick",
+    "category": "Cultural and Traditional Items",
+    "date_collected": "2025-08-09T13:31:06.133777",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Irukẹrẹ",
+    "english_gloss": "Fly whisk",
+    "category": "Cultural and Traditional Items",
+    "date_collected": "2025-08-09T13:31:06.133780",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sango",
+    "english_gloss": "Thunder god",
+    "category": "Cultural and Traditional Items",
+    "date_collected": "2025-08-09T13:31:06.133783",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ifa",
+    "english_gloss": "Divination system",
+    "category": "Cultural and Traditional Items",
+    "date_collected": "2025-08-09T13:31:06.133787",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Egungun",
+    "english_gloss": "Masquerade",
+    "category": "Cultural and Traditional Items",
+    "date_collected": "2025-08-09T13:31:06.133792",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ikẹkọ",
+    "english_gloss": "Learning process",
+    "category": "Education and Learning (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133796",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Imọran",
+    "english_gloss": "Advice/counseling",
+    "category": "Education and Learning (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133799",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Itan",
+    "english_gloss": "Story/history",
+    "category": "Education and Learning (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133802",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Akiyesi",
+    "english_gloss": "Attention",
+    "category": "Education and Learning (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133805",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oyẹ",
+    "english_gloss": "Understanding",
+    "category": "Education and Learning (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133809",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gbagbe",
+    "english_gloss": "Forget",
+    "category": "Education and Learning (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133812",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ranti",
+    "english_gloss": "Remember",
+    "category": "Education and Learning (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133815",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kẹkọọ",
+    "english_gloss": "Study",
+    "category": "Education and Learning (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133818",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Dansaki",
+    "english_gloss": "Homework",
+    "category": "Education and Learning (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133821",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Idanwo",
+    "english_gloss": "Examination",
+    "category": "Education and Learning (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133824",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Owo-iṣowo",
+    "english_gloss": "Capital",
+    "category": "Business and Economics",
+    "date_collected": "2025-08-09T13:31:06.133828",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ere",
+    "english_gloss": "Profit",
+    "category": "Business and Economics",
+    "date_collected": "2025-08-09T13:31:06.133831",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Padanu",
+    "english_gloss": "Loss",
+    "category": "Business and Economics",
+    "date_collected": "2025-08-09T13:31:06.133834",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iyasọtọ",
+    "english_gloss": "Investment",
+    "category": "Business and Economics",
+    "date_collected": "2025-08-09T13:31:06.133837",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gbese",
+    "english_gloss": "Debt",
+    "category": "Business and Economics",
+    "date_collected": "2025-08-09T13:31:06.133841",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹbun",
+    "english_gloss": "Gift/bonus",
+    "category": "Business and Economics",
+    "date_collected": "2025-08-09T13:31:06.133844",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ifowosowopo",
+    "english_gloss": "Partnership",
+    "category": "Business and Economics",
+    "date_collected": "2025-08-09T13:31:06.133847",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ile-iṣẹ",
+    "english_gloss": "Office/workplace",
+    "category": "Business and Economics",
+    "date_collected": "2025-08-09T13:31:06.133852",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aṣẹ",
+    "english_gloss": "Authority/power",
+    "category": "Business and Economics",
+    "date_collected": "2025-08-09T13:31:06.133857",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ipinnu",
+    "english_gloss": "Decision",
+    "category": "Business and Economics",
+    "date_collected": "2025-08-09T13:31:06.133860",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ofin",
+    "english_gloss": "Law",
+    "category": "Legal and Government",
+    "date_collected": "2025-08-09T13:31:06.133864",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹjọ",
+    "english_gloss": "Court case",
+    "category": "Legal and Government",
+    "date_collected": "2025-08-09T13:31:06.133869",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Adajọ",
+    "english_gloss": "Judge",
+    "category": "Legal and Government",
+    "date_collected": "2025-08-09T13:31:06.133873",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹlẹri",
+    "english_gloss": "Witness",
+    "category": "Legal and Government",
+    "date_collected": "2025-08-09T13:31:06.133876",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹjọ",
+    "english_gloss": "Lawsuit",
+    "category": "Legal and Government",
+    "date_collected": "2025-08-09T13:31:06.133879",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ijọba",
+    "english_gloss": "Government",
+    "category": "Legal and Government",
+    "date_collected": "2025-08-09T13:31:06.133882",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aṣẹ",
+    "english_gloss": "Authority",
+    "category": "Legal and Government",
+    "date_collected": "2025-08-09T13:31:06.133886",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọba",
+    "english_gloss": "King",
+    "category": "Legal and Government",
+    "date_collected": "2025-08-09T13:31:06.133889",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ilẹ",
+    "english_gloss": "Land/country",
+    "category": "Legal and Government",
+    "date_collected": "2025-08-09T13:31:06.133892",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ominira",
+    "english_gloss": "Freedom",
+    "category": "Legal and Government",
+    "date_collected": "2025-08-09T13:31:06.133896",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iṣẹ-ọna",
+    "english_gloss": "Artwork",
+    "category": "Arts and Crafts",
+    "date_collected": "2025-08-09T13:31:06.133902",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aworan",
+    "english_gloss": "Picture/image",
+    "category": "Arts and Crafts",
+    "date_collected": "2025-08-09T13:31:06.133905",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Yiya",
+    "english_gloss": "Carving",
+    "category": "Arts and Crafts",
+    "date_collected": "2025-08-09T13:31:06.133908",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Hiho",
+    "english_gloss": "Sculpture",
+    "category": "Arts and Crafts",
+    "date_collected": "2025-08-09T13:31:06.133911",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kikun",
+    "english_gloss": "Weaving",
+    "category": "Arts and Crafts",
+    "date_collected": "2025-08-09T13:31:06.133914",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sisẹ",
+    "english_gloss": "Crafting",
+    "category": "Arts and Crafts",
+    "date_collected": "2025-08-09T13:31:06.133918",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Awọ",
+    "english_gloss": "Color/dye",
+    "category": "Arts and Crafts",
+    "date_collected": "2025-08-09T13:31:06.133921",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọṣọ",
+    "english_gloss": "Decoration",
+    "category": "Arts and Crafts",
+    "date_collected": "2025-08-09T13:31:06.133924",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹwa",
+    "english_gloss": "Beauty",
+    "category": "Arts and Crafts",
+    "date_collected": "2025-08-09T13:31:06.133929",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Asa",
+    "english_gloss": "Culture/tradition",
+    "category": "Arts and Crafts",
+    "date_collected": "2025-08-09T13:31:06.133933",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Irin-ajo",
+    "english_gloss": "Travel/journey",
+    "category": "Travel and Tourism",
+    "date_collected": "2025-08-09T13:31:06.133936",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ajo-aye",
+    "english_gloss": "Tourism",
+    "category": "Travel and Tourism",
+    "date_collected": "2025-08-09T13:31:06.133940",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ile-itutu",
+    "english_gloss": "Hotel",
+    "category": "Travel and Tourism",
+    "date_collected": "2025-08-09T13:31:06.133943",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Alejo",
+    "english_gloss": "Tourist/visitor",
+    "category": "Travel and Tourism",
+    "date_collected": "2025-08-09T13:31:06.133946",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ibi-itura",
+    "english_gloss": "Resort",
+    "category": "Travel and Tourism",
+    "date_collected": "2025-08-09T13:31:06.133950",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oju-ọna",
+    "english_gloss": "Scenery",
+    "category": "Travel and Tourism",
+    "date_collected": "2025-08-09T13:31:06.133953",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Fọto",
+    "english_gloss": "Photograph",
+    "category": "Travel and Tourism",
+    "date_collected": "2025-08-09T13:31:06.133956",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Itọsọna",
+    "english_gloss": "Guide",
+    "category": "Travel and Tourism",
+    "date_collected": "2025-08-09T13:31:06.133959",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iwadi",
+    "english_gloss": "Exploration",
+    "category": "Travel and Tourism",
+    "date_collected": "2025-08-09T13:31:06.133963",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iṣiro-ajo",
+    "english_gloss": "Travel planning",
+    "category": "Travel and Tourism",
+    "date_collected": "2025-08-09T13:31:06.133969",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iwọsan",
+    "english_gloss": "Healing",
+    "category": "Medicine and Healthcare (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133972",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Alagbabọ",
+    "english_gloss": "Protector/guardian",
+    "category": "Medicine and Healthcare (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133976",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oogun",
+    "english_gloss": "Traditional medicine",
+    "category": "Medicine and Healthcare (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133979",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iwadi-ara",
+    "english_gloss": "Medical examination",
+    "category": "Medicine and Healthcare (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133982",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ṣiṣẹ-abẹ",
+    "english_gloss": "Surgery",
+    "category": "Medicine and Healthcare (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133985",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Egboogi",
+    "english_gloss": "Herbs",
+    "category": "Medicine and Healthcare (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133989",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aisan-ara",
+    "english_gloss": "Physical illness",
+    "category": "Medicine and Healthcare (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133992",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aisan-ọkan",
+    "english_gloss": "Mental illness",
+    "category": "Medicine and Healthcare (Extended)",
+    "date_collected": "2025-08-09T13:31:06.133997",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Agbara-ara",
+    "english_gloss": "Physical strength",
+    "category": "Medicine and Healthcare (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134000",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ilera-ọkan",
+    "english_gloss": "Mental health",
+    "category": "Medicine and Healthcare (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134004",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ohun-ini-ayaba",
+    "english_gloss": "Natural resources",
+    "category": "Natural Resources and Environment",
+    "date_collected": "2025-08-09T13:31:06.134008",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Omi-mimọ",
+    "english_gloss": "Clean water",
+    "category": "Natural Resources and Environment",
+    "date_collected": "2025-08-09T13:31:06.134011",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Atẹgun",
+    "english_gloss": "Fresh air",
+    "category": "Natural Resources and Environment",
+    "date_collected": "2025-08-09T13:31:06.134014",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ilẹ-ọlọrọ",
+    "english_gloss": "Fertile soil",
+    "category": "Natural Resources and Environment",
+    "date_collected": "2025-08-09T13:31:06.134018",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Epo-petrolia",
+    "english_gloss": "Petroleum oil",
+    "category": "Natural Resources and Environment",
+    "date_collected": "2025-08-09T13:31:06.134022",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Irin",
+    "english_gloss": "Iron ore",
+    "category": "Natural Resources and Environment",
+    "date_collected": "2025-08-09T13:31:06.134026",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Goolu",
+    "english_gloss": "Gold",
+    "category": "Natural Resources and Environment",
+    "date_collected": "2025-08-09T13:31:06.134029",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Fadaka",
+    "english_gloss": "Silver",
+    "category": "Natural Resources and Environment",
+    "date_collected": "2025-08-09T13:31:06.134032",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Okuta-iyebiye",
+    "english_gloss": "Precious stones",
+    "category": "Natural Resources and Environment",
+    "date_collected": "2025-08-09T13:31:06.134035",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Igi-ope",
+    "english_gloss": "Palm tree",
+    "category": "Natural Resources and Environment",
+    "date_collected": "2025-08-09T13:31:06.134039",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ibarasọ",
+    "english_gloss": "Communication",
+    "category": "Communication and Language",
+    "date_collected": "2025-08-09T13:31:06.134042",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ede",
+    "english_gloss": "Language",
+    "category": "Communication and Language",
+    "date_collected": "2025-08-09T13:31:06.134045",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ikede",
+    "english_gloss": "Announcement",
+    "category": "Communication and Language",
+    "date_collected": "2025-08-09T13:31:06.134049",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Irohin",
+    "english_gloss": "News/information",
+    "category": "Communication and Language",
+    "date_collected": "2025-08-09T13:31:06.134058",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Leta",
+    "english_gloss": "Letter",
+    "category": "Communication and Language",
+    "date_collected": "2025-08-09T13:31:06.134062",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ipọnju",
+    "english_gloss": "Message",
+    "category": "Communication and Language",
+    "date_collected": "2025-08-09T13:31:06.134068",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sisọrọ",
+    "english_gloss": "Conversation",
+    "category": "Communication and Language",
+    "date_collected": "2025-08-09T13:31:06.134072",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Agbọrọsọ",
+    "english_gloss": "Discussion",
+    "category": "Communication and Language",
+    "date_collected": "2025-08-09T13:31:06.134077",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Igbanilaamu",
+    "english_gloss": "Interview",
+    "category": "Communication and Language",
+    "date_collected": "2025-08-09T13:31:06.134081",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Asọye",
+    "english_gloss": "Explanation",
+    "category": "Communication and Language",
+    "date_collected": "2025-08-09T13:31:06.134084",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ikole",
+    "english_gloss": "Building/construction",
+    "category": "Construction and Architecture",
+    "date_collected": "2025-08-09T13:31:06.134089",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ile-nla",
+    "english_gloss": "Mansion",
+    "category": "Construction and Architecture",
+    "date_collected": "2025-08-09T13:31:06.134092",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Adọn",
+    "english_gloss": "Foundation",
+    "category": "Construction and Architecture",
+    "date_collected": "2025-08-09T13:31:06.134095",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọpọn",
+    "english_gloss": "Column/pillar",
+    "category": "Construction and Architecture",
+    "date_collected": "2025-08-09T13:31:06.134099",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gbolohun",
+    "english_gloss": "Beam",
+    "category": "Construction and Architecture",
+    "date_collected": "2025-08-09T13:31:06.134102",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Pẹpẹ",
+    "english_gloss": "Floor/platform",
+    "category": "Construction and Architecture",
+    "date_collected": "2025-08-09T13:31:06.134105",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oniyangiri",
+    "english_gloss": "Architect",
+    "category": "Construction and Architecture",
+    "date_collected": "2025-08-09T13:31:06.134108",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Eto-ile",
+    "english_gloss": "Building plan",
+    "category": "Construction and Architecture",
+    "date_collected": "2025-08-09T13:31:06.134111",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọna-ile",
+    "english_gloss": "Building method",
+    "category": "Construction and Architecture",
+    "date_collected": "2025-08-09T13:31:06.134114",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ohun-elo-ile",
+    "english_gloss": "Building materials",
+    "category": "Construction and Architecture",
+    "date_collected": "2025-08-09T13:31:06.134118",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Imọ-jinlẹ",
+    "english_gloss": "Science",
+    "category": "Science and Research",
+    "date_collected": "2025-08-09T13:31:06.134121",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iwadi",
+    "english_gloss": "Research",
+    "category": "Science and Research",
+    "date_collected": "2025-08-09T13:31:06.134124",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Idanwo",
+    "english_gloss": "Experiment",
+    "category": "Science and Research",
+    "date_collected": "2025-08-09T13:31:06.134127",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹrọ",
+    "english_gloss": "Machine/equipment",
+    "category": "Science and Research",
+    "date_collected": "2025-08-09T13:31:06.134131",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Awọn-kẹmika",
+    "english_gloss": "Chemicals",
+    "category": "Science and Research",
+    "date_collected": "2025-08-09T13:31:06.134134",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Imọ-ara",
+    "english_gloss": "Biology",
+    "category": "Science and Research",
+    "date_collected": "2025-08-09T13:31:06.134137",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Imọ-ile",
+    "english_gloss": "Geography",
+    "category": "Science and Research",
+    "date_collected": "2025-08-09T13:31:06.134145",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Imọ-irinṣẹ",
+    "english_gloss": "Physics",
+    "category": "Science and Research",
+    "date_collected": "2025-08-09T13:31:06.134150",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Imọ-isọ",
+    "english_gloss": "Mathematics",
+    "category": "Science and Research",
+    "date_collected": "2025-08-09T13:31:06.134153",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹya-ara",
+    "english_gloss": "Biology",
+    "category": "Science and Research",
+    "date_collected": "2025-08-09T13:31:06.134163",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọmọ-ogun",
+    "english_gloss": "Soldier",
+    "category": "Military and Security",
+    "date_collected": "2025-08-09T13:31:06.134172",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ogun",
+    "english_gloss": "War/military",
+    "category": "Military and Security",
+    "date_collected": "2025-08-09T13:31:06.134175",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ohun-ija",
+    "english_gloss": "Weapon",
+    "category": "Military and Security",
+    "date_collected": "2025-08-09T13:31:06.134179",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aabo",
+    "english_gloss": "Security/safety",
+    "category": "Military and Security",
+    "date_collected": "2025-08-09T13:31:06.134182",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iledi",
+    "english_gloss": "Fort/fortress",
+    "category": "Military and Security",
+    "date_collected": "2025-08-09T13:31:06.134185",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹgbẹ-aabo",
+    "english_gloss": "Security force",
+    "category": "Military and Security",
+    "date_collected": "2025-08-09T13:31:06.134188",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Isere",
+    "english_gloss": "Training",
+    "category": "Military and Security",
+    "date_collected": "2025-08-09T13:31:06.134192",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Asọ-ogun",
+    "english_gloss": "Uniform",
+    "category": "Military and Security",
+    "date_collected": "2025-08-09T13:31:06.134204",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ija",
+    "english_gloss": "Battle/fight",
+    "category": "Military and Security",
+    "date_collected": "2025-08-09T13:31:06.134216",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ijagun",
+    "english_gloss": "Warfare",
+    "category": "Military and Security",
+    "date_collected": "2025-08-09T13:31:06.134221",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Baba-nla",
+    "english_gloss": "Grandfather",
+    "category": "Extended Family Terms",
+    "date_collected": "2025-08-09T13:31:06.134225",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iya-nla",
+    "english_gloss": "Grandmother",
+    "category": "Extended Family Terms",
+    "date_collected": "2025-08-09T13:31:06.134228",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Babatọba",
+    "english_gloss": "Uncle (father's brother)",
+    "category": "Extended Family Terms",
+    "date_collected": "2025-08-09T13:31:06.134232",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iyatọba",
+    "english_gloss": "Aunt (father's sister)",
+    "category": "Extended Family Terms",
+    "date_collected": "2025-08-09T13:31:06.134239",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Arakunrin",
+    "english_gloss": "Brother",
+    "category": "Extended Family Terms",
+    "date_collected": "2025-08-09T13:31:06.134245",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Arabinrin",
+    "english_gloss": "Sister",
+    "category": "Extended Family Terms",
+    "date_collected": "2025-08-09T13:31:06.134248",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọmọ-arakunrin",
+    "english_gloss": "Nephew",
+    "category": "Extended Family Terms",
+    "date_collected": "2025-08-09T13:31:06.134253",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọmọ-arabinrin",
+    "english_gloss": "Niece",
+    "category": "Extended Family Terms",
+    "date_collected": "2025-08-09T13:31:06.134257",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Okọ-ọmọ",
+    "english_gloss": "Son-in-law",
+    "category": "Extended Family Terms",
+    "date_collected": "2025-08-09T13:31:06.134263",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iyawo-ọmọ",
+    "english_gloss": "Daughter-in-law",
+    "category": "Extended Family Terms",
+    "date_collected": "2025-08-09T13:31:06.134268",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Dandogo",
+    "english_gloss": "Traditional trousers",
+    "category": "Extended Clothing Terms",
+    "date_collected": "2025-08-09T13:31:06.134271",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kẹmbe",
+    "english_gloss": "Wrapper/skirt",
+    "category": "Extended Clothing Terms",
+    "date_collected": "2025-08-09T13:31:06.134275",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Agbada",
+    "english_gloss": "Flowing robe",
+    "category": "Extended Clothing Terms",
+    "date_collected": "2025-08-09T13:31:06.134278",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iro",
+    "english_gloss": "Wrapper",
+    "category": "Extended Clothing Terms",
+    "date_collected": "2025-08-09T13:31:06.134281",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ojongbodu",
+    "english_gloss": "Traditional shoes",
+    "category": "Extended Clothing Terms",
+    "date_collected": "2025-08-09T13:31:06.134284",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oya",
+    "english_gloss": "Shawl",
+    "category": "Extended Clothing Terms",
+    "date_collected": "2025-08-09T13:31:06.134287",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Asọ-ọjọ-ọsẹ",
+    "english_gloss": "Sunday best",
+    "category": "Extended Clothing Terms",
+    "date_collected": "2025-08-09T13:31:06.134291",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Asọ-iwẹ",
+    "english_gloss": "Work clothes",
+    "category": "Extended Clothing Terms",
+    "date_collected": "2025-08-09T13:31:06.134294",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Asọ-sun",
+    "english_gloss": "Nightwear",
+    "category": "Extended Clothing Terms",
+    "date_collected": "2025-08-09T13:31:06.134297",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Asọ-odo",
+    "english_gloss": "Children's clothes",
+    "category": "Extended Clothing Terms",
+    "date_collected": "2025-08-09T13:31:06.134300",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọdanran",
+    "english_gloss": "Corn mill",
+    "category": "Agriculture and Food Processing",
+    "date_collected": "2025-08-09T13:31:06.134304",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Lilo-ọka",
+    "english_gloss": "Corn processing",
+    "category": "Agriculture and Food Processing",
+    "date_collected": "2025-08-09T13:31:06.134308",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ṣiṣẹ-ewa",
+    "english_gloss": "Bean processing",
+    "category": "Agriculture and Food Processing",
+    "date_collected": "2025-08-09T13:31:06.134311",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Pọnpọn",
+    "english_gloss": "Pounding",
+    "category": "Agriculture and Food Processing",
+    "date_collected": "2025-08-09T13:31:06.134316",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Awọn-elo-oko",
+    "english_gloss": "Farm tools",
+    "category": "Agriculture and Food Processing",
+    "date_collected": "2025-08-09T13:31:06.134319",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gbigbin",
+    "english_gloss": "Farming/cultivation",
+    "category": "Agriculture and Food Processing",
+    "date_collected": "2025-08-09T13:31:06.134324",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Koriko",
+    "english_gloss": "Grass/hay",
+    "category": "Agriculture and Food Processing",
+    "date_collected": "2025-08-09T13:31:06.134328",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹranko-ọsin",
+    "english_gloss": "Livestock",
+    "category": "Agriculture and Food Processing",
+    "date_collected": "2025-08-09T13:31:06.134331",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Agbon-emu",
+    "english_gloss": "Palm wine",
+    "category": "Agriculture and Food Processing",
+    "date_collected": "2025-08-09T13:31:06.134334",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Lilo-iresi",
+    "english_gloss": "Rice processing",
+    "category": "Agriculture and Food Processing",
+    "date_collected": "2025-08-09T13:31:06.134337",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mọkanla",
+    "english_gloss": "Eleven",
+    "category": "Extended Numbers and Counting",
+    "date_collected": "2025-08-09T13:31:06.134341",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mejila",
+    "english_gloss": "Twelve",
+    "category": "Extended Numbers and Counting",
+    "date_collected": "2025-08-09T13:31:06.134344",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mẹtala",
+    "english_gloss": "Thirteen",
+    "category": "Extended Numbers and Counting",
+    "date_collected": "2025-08-09T13:31:06.134347",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mẹrinla",
+    "english_gloss": "Fourteen",
+    "category": "Extended Numbers and Counting",
+    "date_collected": "2025-08-09T13:31:06.134351",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mẹẹdogun",
+    "english_gloss": "Fifteen",
+    "category": "Extended Numbers and Counting",
+    "date_collected": "2025-08-09T13:31:06.134354",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mẹrindogun",
+    "english_gloss": "Sixteen",
+    "category": "Extended Numbers and Counting",
+    "date_collected": "2025-08-09T13:31:06.134357",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mẹtadogun",
+    "english_gloss": "Seventeen",
+    "category": "Extended Numbers and Counting",
+    "date_collected": "2025-08-09T13:31:06.134360",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mẹjidogun",
+    "english_gloss": "Eighteen",
+    "category": "Extended Numbers and Counting",
+    "date_collected": "2025-08-09T13:31:06.134365",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mọkandogun",
+    "english_gloss": "Nineteen",
+    "category": "Extended Numbers and Counting",
+    "date_collected": "2025-08-09T13:31:06.134368",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ogun",
+    "english_gloss": "Twenty",
+    "category": "Extended Numbers and Counting",
+    "date_collected": "2025-08-09T13:31:06.134371",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Idunnu",
+    "english_gloss": "Pleasure",
+    "category": "More Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.134374",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Irira",
+    "english_gloss": "Experience",
+    "category": "More Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.134378",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Igbagbe",
+    "english_gloss": "Forgetfulness",
+    "category": "More Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.134381",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iranti",
+    "english_gloss": "Memory",
+    "category": "More Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.134384",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Imọlara",
+    "english_gloss": "Feeling",
+    "category": "More Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.134390",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iyemeji",
+    "english_gloss": "Doubt",
+    "category": "More Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.134395",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Idaniloju",
+    "english_gloss": "Assurance",
+    "category": "More Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.134399",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ipinlẹ",
+    "english_gloss": "State/condition",
+    "category": "More Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.134415",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ipo",
+    "english_gloss": "Position/status",
+    "category": "More Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.134420",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Aseyori",
+    "english_gloss": "Success",
+    "category": "More Abstract Concepts",
+    "date_collected": "2025-08-09T13:31:06.134423",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iwọsọna",
+    "english_gloss": "Prophet",
+    "category": "Extended Religious Terms",
+    "date_collected": "2025-08-09T13:31:06.134426",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Iyaafin",
+    "english_gloss": "Priestess",
+    "category": "Extended Religious Terms",
+    "date_collected": "2025-08-09T13:31:06.134430",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Babalawo",
+    "english_gloss": "Traditional priest",
+    "category": "Extended Religious Terms",
+    "date_collected": "2025-08-09T13:31:06.134434",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Imọlẹ",
+    "english_gloss": "Angel",
+    "category": "Extended Religious Terms",
+    "date_collected": "2025-08-09T13:31:06.134437",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹmi-buburu",
+    "english_gloss": "Evil spirit",
+    "category": "Extended Religious Terms",
+    "date_collected": "2025-08-09T13:31:06.134440",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ijọ",
+    "english_gloss": "Church/congregation",
+    "category": "Extended Religious Terms",
+    "date_collected": "2025-08-09T13:31:06.134443",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Adua",
+    "english_gloss": "Blessing",
+    "category": "Extended Religious Terms",
+    "date_collected": "2025-08-09T13:31:06.134448",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹgbẹ-ẹsin",
+    "english_gloss": "Religious group",
+    "category": "Extended Religious Terms",
+    "date_collected": "2025-08-09T13:31:06.134452",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọjọ-ẹbọ",
+    "english_gloss": "Day of sacrifice",
+    "category": "Extended Religious Terms",
+    "date_collected": "2025-08-09T13:31:06.134455",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ohun-ẹbọ",
+    "english_gloss": "Sacrifice/offering",
+    "category": "Extended Religious Terms",
+    "date_collected": "2025-08-09T13:31:06.134459",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Omi-okun",
+    "english_gloss": "Ocean water",
+    "category": "Water and Marine Life",
+    "date_collected": "2025-08-09T13:31:06.134462",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Omi-odò",
+    "english_gloss": "River water",
+    "category": "Water and Marine Life",
+    "date_collected": "2025-08-09T13:31:06.134466",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Awọn-eja",
+    "english_gloss": "Various fish",
+    "category": "Water and Marine Life",
+    "date_collected": "2025-08-09T13:31:06.134470",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Yenpepe",
+    "english_gloss": "Different types of fish",
+    "category": "Water and Marine Life",
+    "date_collected": "2025-08-09T13:31:06.134473",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Eja-nla",
+    "english_gloss": "Big fish",
+    "category": "Water and Marine Life",
+    "date_collected": "2025-08-09T13:31:06.134479",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọkọ-omi",
+    "english_gloss": "Boat",
+    "category": "Water and Marine Life",
+    "date_collected": "2025-08-09T13:31:06.134482",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Awakọ-ọkọ-omi",
+    "english_gloss": "Boat operator",
+    "category": "Water and Marine Life",
+    "date_collected": "2025-08-09T13:31:06.134486",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Loje-omi",
+    "english_gloss": "Swimming",
+    "category": "Water and Marine Life",
+    "date_collected": "2025-08-09T13:31:06.134489",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Àpẹja",
+    "english_gloss": "Fisherman",
+    "category": "Water and Marine Life",
+    "date_collected": "2025-08-09T13:31:06.134492",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹru-eja",
+    "english_gloss": "Fish load",
+    "category": "Water and Marine Life",
+    "date_collected": "2025-08-09T13:31:06.134497",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Okó",
+    "english_gloss": "Hoe for farming",
+    "category": "Tools and Equipment (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134501",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ṣokusoku",
+    "english_gloss": "Hoe",
+    "category": "Tools and Equipment (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134505",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Agbon",
+    "english_gloss": "Basket",
+    "category": "Tools and Equipment (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134508",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹhin-erin",
+    "english_gloss": "Ivory",
+    "category": "Tools and Equipment (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134523",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Fila-abẹti-aja",
+    "english_gloss": "Different cap styles",
+    "category": "Tools and Equipment (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134528",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Asọ-etu",
+    "english_gloss": "Velvet cloth",
+    "category": "Tools and Equipment (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134531",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Saworo",
+    "english_gloss": "Bell",
+    "category": "Tools and Equipment (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134535",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ilu",
+    "english_gloss": "Drum",
+    "category": "Tools and Equipment (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134538",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ẹlẹdẹ",
+    "english_gloss": "Pig iron",
+    "category": "Tools and Equipment (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134541",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Irin-nlọ",
+    "english_gloss": "Large iron",
+    "category": "Tools and Equipment (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134545",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Didin",
+    "english_gloss": "Frying",
+    "category": "Extended Cooking Terms",
+    "date_collected": "2025-08-09T13:31:06.134548",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sisẹ",
+    "english_gloss": "Boiling",
+    "category": "Extended Cooking Terms",
+    "date_collected": "2025-08-09T13:31:06.134552",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Yiyan",
+    "english_gloss": "Grilling",
+    "category": "Extended Cooking Terms",
+    "date_collected": "2025-08-09T13:31:06.134555",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sisun",
+    "english_gloss": "Roasting",
+    "category": "Extended Cooking Terms",
+    "date_collected": "2025-08-09T13:31:06.134558",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ṣiṣẹ-ọbẹ",
+    "english_gloss": "Soup making",
+    "category": "Extended Cooking Terms",
+    "date_collected": "2025-08-09T13:31:06.134563",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Lilo-iyọ",
+    "english_gloss": "Salt usage",
+    "category": "Extended Cooking Terms",
+    "date_collected": "2025-08-09T13:31:06.134567",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ṣiṣẹ-eko",
+    "english_gloss": "Corn pap making",
+    "category": "Extended Cooking Terms",
+    "date_collected": "2025-08-09T13:31:06.134570",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Dun-obe",
+    "english_gloss": "Soup preparation",
+    "category": "Extended Cooking Terms",
+    "date_collected": "2025-08-09T13:31:06.134574",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Fifọ",
+    "english_gloss": "Washing (food)",
+    "category": "Extended Cooking Terms",
+    "date_collected": "2025-08-09T13:31:06.134577",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gige",
+    "english_gloss": "Cutting/chopping",
+    "category": "Extended Cooking Terms",
+    "date_collected": "2025-08-09T13:31:06.134582",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ji-òjò",
+    "english_gloss": "Drizzle",
+    "category": "Weather Phenomena (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134586",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Òjò-lile",
+    "english_gloss": "Heavy rain",
+    "category": "Weather Phenomena (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134589",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Afẹfẹ-kọlu",
+    "english_gloss": "Windstorm",
+    "category": "Weather Phenomena (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134592",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Òtútù-pupọ",
+    "english_gloss": "Severe cold",
+    "category": "Weather Phenomena (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134596",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọgbẹlẹ",
+    "english_gloss": "Dryness",
+    "category": "Weather Phenomena (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134599",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Omi-ọsan",
+    "english_gloss": "Afternoon rain",
+    "category": "Weather Phenomena (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134602",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Òjò-alẹ",
+    "english_gloss": "Evening rain",
+    "category": "Weather Phenomena (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134606",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Afẹfẹ-tutu",
+    "english_gloss": "Cool breeze",
+    "category": "Weather Phenomena (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134609",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gbona-pupọ",
+    "english_gloss": "Very hot",
+    "category": "Weather Phenomena (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134613",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Yinyin-ṣinṣin",
+    "english_gloss": "Very cold",
+    "category": "Weather Phenomena (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134616",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Orin-igbehin",
+    "english_gloss": "Praise song",
+    "category": "Music and Dance (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134620",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Orin-ibanuje",
+    "english_gloss": "Sad song",
+    "category": "Music and Dance (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134623",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ijo-agba",
+    "english_gloss": "Adult dance",
+    "category": "Music and Dance (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134628",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ijo-ọmọde",
+    "english_gloss": "Children's dance",
+    "category": "Music and Dance (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134633",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gangan",
+    "english_gloss": "Talking drum type",
+    "category": "Music and Dance (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134637",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Bata",
+    "english_gloss": "Sacred drum",
+    "category": "Music and Dance (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134640",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Sakara",
+    "english_gloss": "Type of music",
+    "category": "Music and Dance (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134643",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Juju",
+    "english_gloss": "Popular music style",
+    "category": "Music and Dance (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134646",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Fuji",
+    "english_gloss": "Music genre",
+    "category": "Music and Dance (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134649",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Apala",
+    "english_gloss": "Traditional music",
+    "category": "Music and Dance (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134652",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oniṣẹ-ifowosowo",
+    "english_gloss": "Banker",
+    "category": "More Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.134656",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Onimọ-isọ",
+    "english_gloss": "Mathematician",
+    "category": "More Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.134659",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Onimọ-ẹrọ",
+    "english_gloss": "Engineer",
+    "category": "More Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.134662",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Alakọwe",
+    "english_gloss": "Accountant",
+    "category": "More Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.134666",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oniṣẹ-aabo",
+    "english_gloss": "Security guard",
+    "category": "More Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.134669",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oniwa",
+    "english_gloss": "Gardener",
+    "category": "More Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.134673",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oniṣẹ-ile",
+    "english_gloss": "Housekeeper",
+    "category": "More Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.134676",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Alakowe",
+    "english_gloss": "Clerk",
+    "category": "More Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.134679",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Oniṣẹ-ijọba",
+    "english_gloss": "Government worker",
+    "category": "More Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.134683",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Gbolohun-ẹrọ",
+    "english_gloss": "Mechanic",
+    "category": "More Professional Terms",
+    "date_collected": "2025-08-09T13:31:06.134686",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Kẹkẹ-marua",
+    "english_gloss": "Tricycle",
+    "category": "Transportation (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134690",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Mọto-ẹru",
+    "english_gloss": "Truck",
+    "category": "Transportation (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134694",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọkọ-ayokẹlẹ",
+    "english_gloss": "Bus",
+    "category": "Transportation (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134698",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọkọ-ẹni-kọọkan",
+    "english_gloss": "Private car",
+    "category": "Transportation (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134703",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ọkọ-gbigbe",
+    "english_gloss": "Moving vehicle",
+    "category": "Transportation (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134706",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local Markdown",
+    "dialect": "egba",
+    "text": "Ojú-ọna-roba",
+    "english_gloss": "Highway",
+    "category": "Transportation (Extended)",
+    "date_collected": "2025-08-09T13:31:06.134710",
+    "dialect_guess": null
+  }
+]

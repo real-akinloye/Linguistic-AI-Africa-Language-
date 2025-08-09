@@ -1,0 +1,83 @@
+[
+  {
+    "source": "Local CSV",
+    "dialect": "ibadan",
+    "text": "Ìbàdàn mésí kọ̀gọ̀",
+    "date_collected": "2025-08-09T13:31:06.130935",
+    "english_gloss": "Ibadan never backs down",
+    "context_type": "Proverb",
+    "dialect_guess": "ibadan"
+  },
+  {
+    "source": "Local CSV",
+    "dialect": "ibadan",
+    "text": "Adélabú ta panla ri",
+    "date_collected": "2025-08-09T13:31:06.131010",
+    "english_gloss": "Bragging without substance",
+    "context_type": "Saying",
+    "dialect_guess": "ibadan"
+  },
+  {
+    "source": "Local CSV",
+    "dialect": "ibadan",
+    "text": "Ti Oke Ibadan o ba gba malu...",
+    "date_collected": "2025-08-09T13:31:06.131047",
+    "english_gloss": "Don't overstep what you can offer",
+    "context_type": "Warning",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local CSV",
+    "dialect": "ibadan",
+    "text": "Mo fe ko ile mi bi ti Adebisi",
+    "date_collected": "2025-08-09T13:31:06.131088",
+    "english_gloss": "Start with what you have",
+    "context_type": "Advice",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local CSV",
+    "dialect": "ibadan",
+    "text": "Ibadan ile Oluyole",
+    "date_collected": "2025-08-09T13:31:06.131122",
+    "english_gloss": "Ibadan, the land of Oluyole",
+    "context_type": "Oriki (Praise)",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local CSV",
+    "dialect": "ibadan",
+    "text": "Ibadan ki seru enikankan",
+    "date_collected": "2025-08-09T13:31:06.131151",
+    "english_gloss": "Ibadan bows to no one",
+    "context_type": "Oriki (Pride)",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local CSV",
+    "dialect": "ibadan",
+    "text": "E kaaro",
+    "date_collected": "2025-08-09T13:31:06.131177",
+    "english_gloss": "Good morning",
+    "context_type": "Greeting",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local CSV",
+    "dialect": "ibadan",
+    "text": "Jowo",
+    "date_collected": "2025-08-09T13:31:06.131203",
+    "english_gloss": "Please",
+    "context_type": "Polite Request",
+    "dialect_guess": null
+  },
+  {
+    "source": "Local CSV",
+    "dialect": "ibadan",
+    "text": "O se",
+    "date_collected": "2025-08-09T13:31:06.131230",
+    "english_gloss": "Thank you",
+    "context_type": "Gratitude",
+    "dialect_guess": null
+  }
+]

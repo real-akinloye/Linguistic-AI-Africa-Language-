@@ -16,9 +16,6 @@ from pathlib import Path
 import logging
 from typing import List, Dict, Optional
 import feedparser
-import tweepy  # You'll need to install and configure
-from selenium import webdriver
-from selenium.webdriver.common.by import By
 import wikipedia
 
 # Set up logging
@@ -46,7 +43,7 @@ class YorubaDataCollector:
             # Find article links (adjust selectors based on current BBC structure)
             article_links = soup.find_all('a', href=True)
             
-            for link in article_links[:50]:  # Limit to first 50
+            for link in article_links[:10]:  # Limit to first 10
                 if '/yoruba/' in link['href']:
                     article_url = urljoin(base_url, link['href'])
                     article_data = self._scrape_bbc_article(article_url)
@@ -105,7 +102,7 @@ class YorubaDataCollector:
             # Find article links
             article_links = soup.find_all('a', href=True)
             
-            for link in article_links[:50]:
+            for link in article_links[:10]:
                 if any(keyword in link.get('href', '') for keyword in ['/a/', '/episode/']):
                     article_url = urljoin(base_url, link['href'])
                     article_data = self._scrape_voa_article(article_url)
@@ -158,7 +155,7 @@ class YorubaDataCollector:
             wikipedia.set_lang("yo")
             
             # Get random articles
-            random_titles = wikipedia.random(50)
+            random_titles = wikipedia.random(10)
             
             for title in random_titles:
                 try:
@@ -202,7 +199,7 @@ class YorubaDataCollector:
             
         return proverbs
     
-    def collect_social_media_data(self):
+    def collect_social_media_data(self):  # tweepy removed; placeholder remains
         """
         Placeholder for social media collection
         Note: Requires proper API keys and follows platform ToS
@@ -345,7 +342,7 @@ def main():
     collector = YorubaDataCollector()
     
     # Run specific collections or full collection
-    # collector.run_full_collection()
+    collector.run_full_collection()
     
     # Or run individual collections:
     # bbc_data = collector.collect_bbc_yoruba()

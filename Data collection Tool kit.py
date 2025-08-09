@@ -14,7 +14,7 @@ from urllib.parse import urljoin, urlparse
 import re
 from pathlib import Path
 import logging
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Tuple
 import feedparser
 import wikipedia
 
@@ -30,6 +30,33 @@ class YorubaDataCollector:
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         })
+        
+        # Basic Yoruba dialect token signals (expandable)
+        self.dialect_markers: Dict[str, List[str]] = {
+            'ibadan': [
+                'ìbàdàn', 'olúyọ̀lẹ́', 'àjẹ́sẹ́gbá', 'adélabú', 'ọ̀yọ́', 'òké ìbàdàn'
+            ],
+            'egba': [
+                'ẹ̀gbá', 'abẹ́òkúta', 'aláké', 'àké', 'aṣàjẹ́', 'ó gbeni', 'ilé egbá'
+            ],
+            'awori': [
+                'awori', 'óòtá', 'òtá', 'ìdòdó', 'òkè òdàn', 'òtọ́', 'òkè-òdo'
+            ],
+            'yagba': ['yàgbà', 'kàbà', 'ìlọrin-ìpẹ̀'],
+        }
+        
+        # Lightweight lexical variants for dialectal normalization
+        self.dialect_normalization_map: Dict[str, Dict[str, str]] = {
+            'egba': {
+                'ese': 'ẹsẹ',
+                'owo': 'ọ̀wọ́',
+                'ore': 'ọ̀rẹ́',
+            },
+            'ibadan': {
+                'e': 'ẹ',
+                'o': 'ọ',
+            },
+        }
         
     def collect_bbc_yoruba(self) -> List[Dict]:
         """Collect articles from BBC Yoruba"""
@@ -240,6 +267,76 @@ class YorubaDataCollector:
             
         return bible_texts
     
+    def collect_ibadan_csv(self, path: Optional[str] = None) -> List[Dict]:
+        """Load Ibadan dialect samples from CSV shipped in repo."""
+        records: List[Dict] = []
+        try:
+            base_dir = Path(__file__).resolve().parent
+            file_path = Path(path) if path else base_dir / "ibadan_dialect_sample.csv"
+            if not file_path.exists():
+                logger.warning(f"Ibadan CSV not found at {file_path}")
+                return records
+            df = pd.read_csv(file_path)
+            # Expected columns: Dialect (Ibadan Yoruba), Meaning (English), Type/Context
+            col_text = df.columns[0]
+            col_meaning = df.columns[1] if len(df.columns) > 1 else None
+            col_type = df.columns[2] if len(df.columns) > 2 else None
+            for _, row in df.iterrows():
+                text_val = str(row[col_text]).strip()
+                if not text_val or text_val.lower().startswith("dialect "):
+                    continue
+                rec: Dict = {
+                    'source': 'Local CSV',
+                    'dialect': 'ibadan',
+                    'text': text_val,
+                    'date_collected': pd.Timestamp.now().isoformat(),
+                }
+                if col_meaning:
+                    rec['english_gloss'] = str(row[col_meaning]).strip()
+                if col_type:
+                    rec['context_type'] = str(row[col_type]).strip()
+                records.append(rec)
+            return records
+        except Exception as e:
+            logger.error(f"Error loading Ibadan CSV: {e}")
+            return records
+    
+    def collect_egba_markdown(self, path: Optional[str] = None) -> List[Dict]:
+        """Parse Egba words markdown-like list into structured records."""
+        records: List[Dict] = []
+        try:
+            base_dir = Path(__file__).resolve().parent
+            file_path = Path(path) if path else base_dir / "egba words"
+            if not file_path.exists():
+                logger.warning(f"Egba words file not found at {file_path}")
+                return records
+            current_category: Optional[str] = None
+            with open(file_path, 'r', encoding='utf-8') as f:
+                for raw_line in f:
+                    line = raw_line.strip()
+                    if not line:
+                        continue
+                    if line.startswith('## '):
+                        current_category = line[3:].strip()
+                        continue
+                    # Match list lines like: 1. **Bawo** - How are you?
+                    m = re.match(r"^\d+\.\s*\*\*(.+?)\*\*\s*\-\s*(.+)$", line)
+                    if m:
+                        word = m.group(1).strip()
+                        gloss = m.group(2).strip()
+                        records.append({
+                            'source': 'Local Markdown',
+                            'dialect': 'egba',
+                            'text': word,
+                            'english_gloss': gloss,
+                            'category': current_category,
+                            'date_collected': pd.Timestamp.now().isoformat(),
+                        })
+            return records
+        except Exception as e:
+            logger.error(f"Error parsing Egba words: {e}")
+            return records
+    
     def save_data(self, data: List[Dict], filename: str):
         """Save collected data to file"""
         if not data:
@@ -271,6 +368,95 @@ class YorubaDataCollector:
         
         return text.strip()
     
+    def classify_yoruba_dialect(self, text: str) -> Optional[str]:
+        """Heuristic classifier to guess Yoruba dialect from presence of markers."""
+        if not text:
+            return None
+        lowered = text.lower()
+        best_label: Optional[str] = None
+        best_hits = 0
+        for label, markers in self.dialect_markers.items():
+            hits = sum(1 for m in markers if m in lowered)
+            if hits > best_hits:
+                best_hits = hits
+                best_label = label
+        return best_label
+    
+    def normalize_text_for_dialect(self, text: str, dialect: Optional[str]) -> str:
+        """Apply very light normalization specific to a dialect (if any)."""
+        if not text or not dialect:
+            return text or ""
+        mapping = self.dialect_normalization_map.get(dialect, {})
+        normalized = text
+        for src, dst in mapping.items():
+            normalized = re.sub(rf"\b{re.escape(src)}\b", dst, normalized, flags=re.IGNORECASE)
+        return normalized
+    
+    def collect_egun_bible_vocab(self, base_url: str = "https://www.bible.com/bible") -> List[Dict]:
+        """
+        Scrape Egun (Gbe/Egun language spoken around Benin/Badagry) Bible words to build a vocabulary list.
+        NOTE: This function targets a generic pattern; you should point base_url to a concrete Egun Bible site or
+        an open-licensed text with stable HTML. Update selectors accordingly.
+        Returns list of {source, language, book, chapter, verse, text, tokens}
+        """
+        results: List[Dict] = []
+        try:
+            # Placeholder: known public Egun or Gbe resources are scarce; this outlines a strategy using a seed page list
+            seed_pages: List[str] = []
+            # Example placeholders (must be updated to actual Egun content URLs that permit scraping):
+            # seed_pages = [
+            #     "https://example.org/egun/genesis/1",
+            #     "https://example.org/egun/john/1",
+            # ]
+            if not seed_pages:
+                logger.warning("No Egun seed pages configured. Provide open Egun Bible URLs to enable scraping.")
+                return results
+            
+            for page_url in seed_pages:
+                try:
+                    response = self.session.get(page_url, timeout=15)
+                    response.raise_for_status()
+                    soup = BeautifulSoup(response.content, 'html.parser')
+                    
+                    # Example selectors: adjust for the target site structure
+                    # title may contain book and chapter
+                    title_el = soup.find('h1') or soup.find('h2')
+                    title_text = title_el.get_text(strip=True) if title_el else ""
+                    book = ""
+                    chapter = None
+                    m = re.search(r"([A-Za-zÀ-ÿ’'\- ]+)\s+(\d+)", title_text)
+                    if m:
+                        book = m.group(1).strip()
+                        try:
+                            chapter = int(m.group(2))
+                        except Exception:
+                            chapter = None
+                    
+                    verse_blocks = soup.select("div.verse, span.verse, p.verse") or soup.find_all('p')
+                    for idx, block in enumerate(verse_blocks, start=1):
+                        verse_text = block.get_text(" ", strip=True)
+                        if not verse_text:
+                            continue
+                        tokens = [tok for tok in re.split(r"[^\wÀ-ÿ’']+", verse_text) if tok]
+                        results.append({
+                            'source': 'Egun Bible (web)',
+                            'language': 'Egun',
+                            'book': book or None,
+                            'chapter': chapter,
+                            'verse': idx,
+                            'text': verse_text,
+                            'tokens': tokens,
+                            'date_collected': pd.Timestamp.now().isoformat(),
+                            'url': page_url,
+                        })
+                    time.sleep(1)
+                except Exception as e:
+                    logger.warning(f"Egun page failed {page_url}: {e}")
+                    continue
+        except Exception as e:
+            logger.error(f"Error collecting Egun Bible vocabulary: {e}")
+        return results
+    
     def run_full_collection(self):
         """Run complete data collection process"""
         logger.info("Starting Yoruba data collection...")
@@ -282,6 +468,10 @@ class YorubaDataCollector:
             ("wikipedia_yoruba", self.collect_wikipedia_yoruba),
             ("yoruba_proverbs", self.collect_yoruba_proverbs),
             ("bible_yoruba", self.collect_bible_yoruba),
+            ("ibadan_local", self.collect_ibadan_csv),
+            ("egba_local", self.collect_egba_markdown),
+            # Egun vocabulary collection is opt-in until configured
+            # ("egun_bible_vocab", self.collect_egun_bible_vocab),
         ]
         
         for name, collector_func in collections:
@@ -289,13 +479,15 @@ class YorubaDataCollector:
             try:
                 data = collector_func()
                 if data:
-                    # Clean the text data
+                    # Clean and add dialect classification
                     for item in data:
-                        if 'content' in item:
-                            item['content'] = self.clean_text(item['content'])
-                        if 'text' in item:
-                            item['text'] = self.clean_text(item['text'])
-                    
+                        text_field = 'content' if 'content' in item else ('text' if 'text' in item else None)
+                        if text_field:
+                            raw_text = item[text_field]
+                            item[text_field] = self.clean_text(raw_text)
+                            dialect = self.classify_yoruba_dialect(item[text_field])
+                            item['dialect_guess'] = dialect
+                            item[text_field] = self.normalize_text_for_dialect(item[text_field], dialect)
                     self.save_data(data, name)
                 else:
                     logger.warning(f"No data collected for {name}")
